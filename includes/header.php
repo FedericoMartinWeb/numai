@@ -29,7 +29,6 @@
 		<!-- Styles -->
 		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
 		<link rel="stylesheet" href="css/libraries/reset.css" />
-		<link rel="stylesheet" href="css/libraries/grid.css" />
 		<link rel="stylesheet" href="css/libraries/bootstrap-grid.min.css" />
 
 		<!-- Styles - main -->

@@ -45,6 +45,13 @@ $(document).ready(function() {
 		$(this).toggleClass('active');
 		$menu.toggleClass('show');
 	});
+
+	$(window).on('load resize', function(){
+		
+		var marginValue = $('.title .container').css('margin-left');
+		$('.title__line').css('width', marginValue);
+		
+	});
 });
 
 // ---
