@@ -22,10 +22,11 @@ $(document).ready(function() {
 	$body = $('body');
 	$html = $('html');
 	$htmlBody = $('html,body');
-	$header = $('#main_header');
-	$content = $('#main_content');
+	$header = $('.main__header');
 	$footer = $('#main_footer');
 	$window = $(window);
+	$menu__icon = $('.site-header__menu-icon');
+	$menu = $('.header__menu');
 	
 	// ---
 	
@@ -37,7 +38,13 @@ $(document).ready(function() {
 	
 	// pages
 	pages = new pages();
-	
+
+	// Menu Mobile
+
+	$menu__icon.on('click', function(){
+		$(this).toggleClass('active');
+		$menu.toggleClass('show');
+	});
 });
 
 // ---

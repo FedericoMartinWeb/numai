@@ -43,7 +43,48 @@
 		<div id="wrapper">
 
 			<!--main_header-->
-			<header id="main_header">
-				
+			<header class="main__header">
+				<div class="container">
+					
+					<div class="main__header__wrapper">
+						
+						<div class="header__logo">
+							<a href="#"><img src="img/header/logo.png" alt=""></a>
+						</div>
+
+						<div class="site-header__menu-icon">
+							<div class="site-header__menu-icon__middle"></div>
+						</div>
+
+						<div class="header__menu">
+
+							<div class="container">
+								
+								<div class="header__menu__wrapper">
+									
+									<div class="header__wasap">
+										<span>+54 9 11 3121-1234</span>
+									</div>
+
+									<nav>
+										<ul>
+											<li><a href="#">Ubicacion</a></li>
+											<li><a href="#">Proyecto</a></li>
+											<li><a href="#">Amenities</a></li>
+											<li><a href="#">Unidades</a></li>
+											<li><a href="#">galeria</a></li>
+											<li><a href="#">Aquitectura</a></li>
+											<li><a href="#">contacto</a></li>
+										</ul>
+									</nav>
+								</div>
+								
+							</div>
+
+						</div>
+
+					</div>
+					
+				</div>
 			</header>
 			<!--/main_header-->
