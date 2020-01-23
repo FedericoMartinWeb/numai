@@ -1,3 +1,9 @@
+/* Globales */
+
+.separador{
+  margin-top: 16rem;
+}
+
 /* Header */
 
 .main__header{
@@ -165,6 +171,7 @@
 }
 
 /* Title */
+
 body{
   padding-bottom: 30rem;
 }
@@ -198,4 +205,107 @@ body{
     height: 4px;
     background-color: red;
   }
+}
+
+/* Main Box */
+
+.box__item{
+  height: 16rem;
+  background-color: red;
+  position: relative;
+  cursor: pointer;
+}
+
+.box__internal{
+  height: 100%;
+  overflow: hidden;
+}
+
+.box__title{
+  height: 100%;
+  background-color: green;
+  position: relative;
+  transition: all .4s ease-in-out;
+}
+
+.box__description{
+  height: 100%;
+  background-color: purple;
+  position: relative;
+  transition: all .4s ease-in-out;
+}
+
+.box__item:hover .box__title,
+.box__item:hover .box__description{
+  transform: translateY(-100%);
+}
+
+/* Map */
+
+.map{
+  width: 100vw;
+  height: 57rem;
+  margin-top: 5rem;
+}
+.map__wrapper{
+  height: 100%;
+  width: 100%;
+}
+
+.map__wrapper img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+
+/* Proyecto */
+
+.proyecto.numai .title__wrapper:before{
+  content: 'numai 1';
+  position: absolute;
+  bottom: -3px;
+  left: 21rem;
+  background-color: green;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.proyecto__item{
+  margin-top: 4rem;
+}
+
+.proyecto__item .proyecto__foto figure{
+  width: 100%; 
+  height: 100%; 
+}
+
+.proyecto__item .proyecto__foto figure img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top left;
+}
+
+.proyecto__foto{
+  height: 100%;
+}
+
+.proyecto__texto{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.proyecto__texto__wrapper{
+  background-color: green;
+  width: 100%;
+}
+
+.proyecto__item.odd{
+  height: 72rem;
+}
+
+.proyecto__item.even{
+  height: 58rem;
 }
