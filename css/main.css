@@ -176,7 +176,7 @@ body{
   padding-bottom: 30rem;
 }
 
-@media only screen and (min-width: 768px){
+
   
   .title{
     position: relative;
@@ -205,20 +205,12 @@ body{
     height: 4px;
     background-color: red;
   }
-}
+
 
 /* Main Box */
 
 .box__item{
-  height: 16rem;
-  background-color: red;
   position: relative;
-  cursor: pointer;
-}
-
-.box__internal{
-  height: 100%;
-  overflow: hidden;
 }
 
 .box__title{
@@ -235,9 +227,22 @@ body{
   transition: all .4s ease-in-out;
 }
 
-.box__item:hover .box__title,
-.box__item:hover .box__description{
-  transform: translateY(-100%);
+@media only screen and (min-width: 769px){
+  
+  .box__item{
+    height: 16rem;
+    cursor: pointer;
+  }
+
+  .box__internal{
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .box__item:hover .box__title,
+  .box__item:hover .box__description{
+    transform: translateY(-100%);
+  }
 }
 
 /* Map */
@@ -308,4 +313,40 @@ body{
 
 .proyecto__item.even{
   height: 58rem;
+}
+
+.proyecto__item.even .proyecto__texto{
+  order: 1;
+}
+.proyecto__item.even .proyecto__foto{
+  order: 0;
+}
+
+@media only screen and (min-width: 769px){
+  .proyecto__item.even .proyecto__texto{
+    order: 0;
+  }
+
+  .proyecto__item.even .proyecto__foto{
+    order: 1;
+  }
+}
+
+/* Amenities */
+
+.ame__item .ame__foto figure{
+  height: 20rem;
+}
+
+.ame__item .ame__foto img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+}
+
+.ame__item .ame__list{
+  margin-top: 2rem;
+  padding: 2rem 0;
+  border-top: 2px solid red;
 }
