@@ -10,7 +10,19 @@
 		</div>
 		
 		<div class="hero__wrapper">
-			<p>asdasd</p>
+			<span class="present">te presentamos</span>
+			<h1>numai I</h1>
+			<h3><span>numai</span> significa único</h3>
+			<span class="origi">único significa <b>original</b></span>
+		</div>
+
+		<div class="wasap__mobile">
+			<a href="#"><i class="icon-whatsapp"></i></a>
+		</div>
+
+		<div class="entrega">
+			<span>entrega prevista</span>
+			<span>mayo 2021</span>
 		</div>
 
 	</section>
