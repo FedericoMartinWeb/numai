@@ -33,11 +33,11 @@
 			<div class="title__wrapper">
 				<div class="row">
 
-					<div class="title__main col-md-4">
+					<div class="title__main col-lg-4">
 						<h2>Ubicación</h2>
 					</div>
 
-					<div class="title__description col-md-8">NUMAI I te espera para que explores el ritmo de un barrio que te permitirá crear una experiencia única, cerca de todo lo que necesitas.</div>
+					<div class="title__description col-lg-8">NUMAI I te espera para que explores el ritmo de un barrio que te permitirá crear una experiencia única, cerca de todo lo que necesitas.</div>
 
 				</div>
 			</div>
@@ -47,7 +47,7 @@
 	<section class="box separador">
 		<div class="container">
 			<div class="row">
-				<div class="box__item col-md-4">
+				<div class="box__item col-lg-4">
 					<div class="box__internal">
 						<div class="box__title">
 							<h3>Parques</h3>
@@ -60,7 +60,7 @@
 					</div>
 				</div>
 
-				<div class="box__item col-md-4">
+				<div class="box__item col-lg-4">
 					<div class="box__internal">
 						<div class="box__title">
 							<h3>Ofertas Culturales</h3>
@@ -73,7 +73,7 @@
 					</div>
 				</div>
 
-				<div class="box__item col-md-4">
+				<div class="box__item col-lg-4">
 					<div class="box__internal">
 						<div class="box__title">
 							<h3>Accesibilidad</h3>
@@ -102,11 +102,11 @@
 				<div class="title__wrapper">
 					<div class="row">
 
-						<div class="title__main col-md-4">
+						<div class="title__main col-lg-4">
 							<h2>proyecto</h2>
 						</div>
 
-						<div class="title__description col-md-8">Queremos ofrecerte una experiencia urbana diferente, en la que puedas sentir tu casa o tu oficina cómo ese lugar único en el mundo.</div>
+						<div class="title__description col-lg-8">Queremos ofrecerte una experiencia urbana diferente, en la que puedas sentir tu casa o tu oficina cómo ese lugar único en el mundo.</div>
 
 					</div>
 				</div>
@@ -116,28 +116,31 @@
 		<div class="container">
 			
 			<div class="proyecto__item row odd">
-				<div class="proyecto__foto col-md-6">
+				<div class="proyecto__foto col-lg-6">
 					<figure>
-						<img src="img/proyectos/imagen1.jpg" alt="">
+						<img src="img/proyectos/imagen1.png" alt="">
 					</figure>
 				</div>
-				<div class="proyecto__texto col-md-4">
+				<div class="proyecto__texto col-lg-4">
 					<div class="proyecto__texto__wrapper">
-						<h4>Donde Todo Comienza</h4>
-						<p>Numai te ofrece una combinacion</p>
+						<h4>Donde Comienza Todo</h4>
+						<p>Numai te ofrece una combinación única: vivir, trabajar y entretenerse en un mismo lugar.</p>
 					</div>
 				</div>
 			</div>
 			
 			<div class="proyecto__item row even">
-				<div class="proyecto__texto col-md-4">
+				<div class="proyecto__texto col-lg-4">
 					<div class="proyecto__texto__wrapper">
-						<h4>Donde Todo Comienza</h4>
-						<p>Numai te ofrece una combinacion</p>
+						<div class="box__title">
+							<h3>calidez</h3>
+							<span>diseñada para disfrutar</span>
+						</div>
+						<p>Cada unidad está diseñada para que disfrutes de la calidez y luminosidad de sus espacios. Aquí podrás vivir o trabajar en un lugar pensado para vos, con todos los detalles que lo hacen único.</p>
 					</div>
 				</div>
 
-				<div class="proyecto__foto col-md-8">
+				<div class="proyecto__foto col-lg-8">
 					<figure>
 						<img src="img/proyectos/imagen2.jpg" alt="">
 					</figure>
@@ -154,76 +157,81 @@
 				<div class="title__wrapper">
 					<div class="row">
 
-						<div class="title__main col-md-4">
+						<div class="title__main col-lg-4">
 							<h2>Amenities</h2>
 						</div>
 
-						<div class="title__description col-md-8">
-							Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa dignissimos placeat minus dolorem, obcaecati quia animi. Dicta perspiciatis beatae est nesciunt impedit expedita optio maxime? Nobis fugiat et eos facere.
-						</div>
+						<div class="title__description col-lg-8">Queremos ofrecerte una experiencia urbana diferente, en la que puedas sentir tu casa o tu oficina cómo ese lugar único en el mundo.</div>
 
 					</div>
 				</div>
 			</div>
 		</div>
+
+		<section class="ame__full">
+			<div class="ame__full__wrapper">
+				<img src="img/ame/full.png" alt="">
+			</div>
+		</section>
+
 		<div class="container">
 			<div class="row">
-				<div class="col-md-4">
-					<div class="ame__item">
-						<div class="ame__foto">
-							<figure>
-								<img src="img/proyectos/imagen2.jpg" alt="">
-							</figure>
-						</div>
-						<div class="ame__list">
-							<h4>Comodidad</h4>
-							<ul>
-								<li>9 pisos</li>
-								<li>Cocheras</li>
-								<li>Sum con parrilla</li>
-								<li>Solarium</li>
-								<li>Terrazas</li>
-							</ul>
-						</div>
+				<div class="col-lg-4 ame__item">
+					
+					<div class="ame__foto">
+						<figure>
+							<img src="img/proyectos/imagen2.jpg" alt="">
+						</figure>
 					</div>
+					<div class="ame__list">
+						<h4>Comodidad</h4>
+						<ul>
+							<li>- 9 pisos distribuidos en Studios, 2, 3 y 4 ambientes aptos profesional.</li>
+							<li>- Cocheras fijas opcionales.</li>
+							<li>- SUM con parrilla.</li>
+							<li>- Solárium.</li>
+							<li>- Terrazas exclusivas.</li>
+						</ul>
+					</div>
+					
 				</div>
-				<div class="col-md-4">
-					<div class="ame__item">
-						<div class="ame__foto">
-							<figure>
-								<img src="img/proyectos/imagen2.jpg" alt="">
-							</figure>
-						</div>
-						<div class="ame__list">
-							<h4>Comodidad</h4>
-							<ul>
-								<li>9 pisos</li>
-								<li>Cocheras</li>
-								<li>Sum con parrilla</li>
-								<li>Solarium</li>
-								<li>Terrazas</li>
-							</ul>
-						</div>
+				<div class="col-lg-4 ame__item">
+					
+					<div class="ame__foto">
+						<figure>
+							<img src="img/proyectos/imagen2.jpg" alt="">
+						</figure>
 					</div>
+					<div class="ame__list">
+						<h4>terminaciones</h4>
+						<ul>
+							<li>- Baños, cocina y pisos revestidos con porcelanatos.</li>
+							<li>- Griferías de primera calidad y diseño.</li>
+							<li>- Interiores con placards completos.</li>
+							<li>- Horno y anafe en todas las unidades.</li>
+							<li>- Se incluirá provisión y colocación de cortinas roller.</li>
+							<li>- Carpintería de Aluminio DVH (doble vidrio hermético).</li>
+						</ul>
+					</div>
+					
 				</div>
-				<div class="col-md-4">
-					<div class="ame__item">
-						<div class="ame__foto">
-							<figure>
-								<img src="img/proyectos/imagen2.jpg" alt="">
-							</figure>
-						</div>
-						<div class="ame__list">
-							<h4>Comodidad</h4>
-							<ul>
-								<li>9 pisos</li>
-								<li>Cocheras</li>
-								<li>Sum con parrilla</li>
-								<li>Solarium</li>
-								<li>Terrazas</li>
-							</ul>
-						</div>
+				<div class="col-lg-4 ame__item">
+					
+					<div class="ame__foto">
+						<figure>
+							<img src="img/proyectos/imagen2.jpg" alt="">
+						</figure>
 					</div>
+					<div class="ame__list">
+						<h4>vanguardia</h4>
+						<ul>
+							<li>- Calefacción por radiador, con caldera individual (en unid. De 2, 3 y 4 amb.)</li>
+							<li>- Multi Split Frio Calor para los Studios.</li>
+							<li>- Cocina con muebles bajomesada y alacenas de diseño.</li>
+							<li>- Cerraduras biométricas con huella digital en la puerta de las unidades.</li>
+						</ul>
+					</div>
+					
 				</div>
 			</div>
 		</div>

@@ -50,12 +50,13 @@ $(document).ready(function() {
 		
 		var marginValue = $('.title .container').css('margin-left');
 		$('.title__line').css('width', marginValue);
-
-		if(WW > 769){
-			$('.entrega').css('margin-right', $('.title .container').css('margin-right'));
-		}
 		
 	});
+
+	// Hero
+	
+	$('.entrega').css('margin-right', $('.title .container').css('margin-right'));
+	
 });
 
 // ---
