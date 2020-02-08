@@ -6,7 +6,7 @@
 	<section class="hero">
 
 		<div class="hero__image">
-			<img src="img/hero/hero.jpg" alt="">
+			<img src="img/hero/hero.png" alt="">
 		</div>
 		
 		<div class="hero__wrapper">

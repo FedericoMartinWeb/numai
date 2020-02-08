@@ -29,6 +29,8 @@
 		<!-- Styles -->
 		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
 		<link rel="stylesheet" href="css/libraries/reset.css" />
+		<link rel="stylesheet" href="css/libraries/icons.css" />
+		<link rel="stylesheet" href="css/libraries/fonts.css" />
 		<link rel="stylesheet" href="css/libraries/bootstrap-grid.min.css" />
 
 		<!-- Styles - main -->
@@ -62,7 +64,7 @@
 								<div class="header__menu__wrapper">
 									
 									<div class="header__wasap">
-										<span>+54 9 11 3121-1234</span>
+										<a href="#"><i class="icon-whatsapp"></i><span>+54 9 11 3121-1234</span></a>
 									</div>
 
 									<nav>
