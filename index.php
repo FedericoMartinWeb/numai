@@ -34,12 +34,10 @@
 				<div class="row">
 
 					<div class="title__main col-md-4">
-						<h2>Ubicacion</h2>
+						<h2>Ubicación</h2>
 					</div>
 
-					<div class="title__description col-md-8">
-						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa dignissimos placeat minus dolorem, obcaecati quia animi. Dicta perspiciatis beatae est nesciunt impedit expedita optio maxime? Nobis fugiat et eos facere.
-					</div>
+					<div class="title__description col-md-8">NUMAI I te espera para que explores el ritmo de un barrio que te permitirá crear una experiencia única, cerca de todo lo que necesitas.</div>
 
 				</div>
 			</div>
@@ -53,10 +51,11 @@
 					<div class="box__internal">
 						<div class="box__title">
 							<h3>Parques</h3>
+							<span>comercios - espacios recreativos</span>
 						</div>
 
 						<div class="box__description">
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic totam illum nesciunt vel quod necessitatibus cum. Eos quo, exercitationem voluptatem quos autem assumenda architecto laudantium debitis iure ipsam facere unde?</p>
+							<p>La ubicación de Numai se destaca por el acceso a diferentes ofertas culturales, artísticas y recreativas.</p>
 						</div>
 					</div>
 				</div>
@@ -65,10 +64,11 @@
 					<div class="box__internal">
 						<div class="box__title">
 							<h3>Ofertas Culturales</h3>
+							<span>teatros</span>
 						</div>
 
 						<div class="box__description">
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic totam illum nesciunt vel quod necessitatibus cum. Eos quo, exercitationem voluptatem quos autem assumenda architecto laudantium debitis iure ipsam facere unde?</p>
+							<p>Podes combinar paseos con visitas a museos, parques o salidas a distintos bares y teatros.</p>
 						</div>
 					</div>
 				</div>
@@ -77,10 +77,11 @@
 					<div class="box__internal">
 						<div class="box__title">
 							<h3>Accesibilidad</h3>
+							<span>centros médicos - educativos</span>
 						</div>
 
 						<div class="box__description">
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic totam illum nesciunt vel quod necessitatibus cum. Eos quo, exercitationem voluptatem quos autem assumenda architecto laudantium debitis iure ipsam facere unde?</p>
+							<p>El edificio está estratégicamente situado a una cuadra de la línea de subte B y a pocas cuadras de diversos centros médicos, educativos y comerciales.</p>
 						</div>
 					</div>
 				</div>
@@ -90,7 +91,7 @@
 
 	<section class="map">
 		<div class="map__wrapper">
-			<img src="img/map/map.jpg" alt="">
+			<img src="img/map/map.png" alt="">
 		</div>
 	</section>
 
@@ -102,12 +103,10 @@
 					<div class="row">
 
 						<div class="title__main col-md-4">
-							<h2>Ubicacion</h2>
+							<h2>proyecto</h2>
 						</div>
 
-						<div class="title__description col-md-8">
-							Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa dignissimos placeat minus dolorem, obcaecati quia animi. Dicta perspiciatis beatae est nesciunt impedit expedita optio maxime? Nobis fugiat et eos facere.
-						</div>
+						<div class="title__description col-md-8">Queremos ofrecerte una experiencia urbana diferente, en la que puedas sentir tu casa o tu oficina cómo ese lugar único en el mundo.</div>
 
 					</div>
 				</div>

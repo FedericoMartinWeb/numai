@@ -47,7 +47,7 @@
 }
 
 @font-face {
-    font-family: 'DIN Next LT Pro';
+    font-family: 'DIN Next LT Pro regular';
     src: url('../../fonts/DINNextLTPro-Condensed.woff2') format('woff2'),
         url('../../fonts/DINNextLTPro-Condensed.woff') format('woff');
     font-weight: normal;
@@ -79,7 +79,7 @@
 }
 
 @font-face {
-    font-family: 'DIN Next LT Pro';
+    font-family: 'DIN Next LT Pro Condensed';
     src: url('../../fonts/DINNextLTPro-LightCondensed.woff2') format('woff2'),
         url('../../fonts/DINNextLTPro-LightCondensed.woff') format('woff');
     font-weight: 300;

@@ -1,7 +1,9 @@
 /* Globales */
 
-.separador{
-  margin-top: 16rem;
+@media only screen and (min-width: 769px){
+  .separador{
+    margin-top: 11.2rem;
+  }
 }
 
 /* Header */
@@ -128,6 +130,10 @@
   margin-bottom: 3.2rem;
 }
 
+.header__menu .header__menu__wrapper nav ul li{
+  padding-left: 2rem;
+}
+
 .header__menu .header__menu__wrapper nav ul li:last-child a{
   margin-bottom: 0;
 }
@@ -161,6 +167,10 @@
     bottom: -3px;
     left: 0;
     transition: background-color .3s ease-out;
+  }
+
+  .header__menu .header__menu__wrapper nav ul li{
+    padding-left: 0;
   }
 
   .header__menu .header__menu__wrapper nav ul a:hover:after{
@@ -457,22 +467,56 @@ body{
   padding-bottom: 30rem;
 }
 
-  .title{
-    position: relative;
-  }
+.title{
+  position: relative;
+  font-family: 'DINPro';
+}
 
-  .title__wrapper{
-    padding: 3rem 0;
-    border-top: 5px solid red;
-    position: relative;
-  }
+.title__wrapper{
+  padding-top: 2.5rem;
+  border-top: 6px solid #000;
+  position: relative;
+}
 
-  .title__line{
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 4px;
-    background-color: red;
+.title__main h2{
+  text-transform: uppercase;
+  font-size: 1.8em;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  color: #000;
+  line-height: 2.75rem;
+  padding-bottom: 1.1rem;
+}
+
+.title__main:after{
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: -15px;
+  width: 11.5rem;
+  height: 4px;
+  background-color: #000;
+}
+
+.title__description{
+  font-size: 1.45em;
+  line-height: 2.2rem;
+  color: #000;
+  margin-top: 2rem;
+  font-weight: 500;
+}
+
+.title__line{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 4px;
+  background-color: #000;
+}
+
+@media only screen and (min-width: 769px){
+  .title__main:after{
+    display: none;
   }
 
   .title__wrapper:after{
@@ -480,13 +524,33 @@ body{
     position: absolute;
     bottom: 0;
     left: -15px;
-    width: 21.5rem;
+    width: 14.5rem;
     height: 4px;
-    background-color: red;
+    background-color: #000;
   }
+
+  .title__main h2{
+    padding-bottom: 0;
+    font-size: 3em;
+    line-height: 5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .title__description{
+    margin-top: 0;
+    font-size: 1.8em;
+    line-height: 2.8rem;
+    position: relative;
+    top: 1rem;
+  }
+}
 
 
 /* Main Box */
+
+.box{
+  margin-top: 3.6rem;
+}
 
 .box__item{
   position: relative;
@@ -494,33 +558,92 @@ body{
 
 .box__title{
   height: 100%;
-  background-color: green;
+  padding: 2.5rem 0;
   position: relative;
   transition: all .4s ease-in-out;
+  border-top: 3px solid #000;
+}
+
+.box__title h3{
+  font-size: 2.5em;
+  line-height: 3.55rem;
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+}
+
+.box__title span{
+  font-family: 'DIN Next LT Pro Condensed';
+  text-transform: uppercase;
+  font-size: 1.65em;
+  line-height: 2.3rem;
 }
 
 .box__description{
+  font-family: 'DINPro';
   height: 100%;
-  background-color: purple;
+  padding: 2.5rem 0;
+  border-top: 1px solid #000;
   position: relative;
   transition: all .4s ease-in-out;
+  font-weight: 500;
+  font-size: 1.4em;
+  line-height: 2.2rem;
+  color: #000;
+}
+
+.box__item:last-child .box__description{
+  border-bottom: 1px solid #000;
 }
 
 @media only screen and (min-width: 769px){
+
+  .box{
+    margin-top: 11.2rem;
+  }
+
+  .box__title,
+  .box__description{
+    border-top: none;
+  }
+
+  .box__item:last-child .box__description{
+    border-bottom: none;
+  }
+
+  .box__title,
+  .box__description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
   
   .box__item{
-    height: 16rem;
+    height: 13.7rem;
     cursor: pointer;
   }
 
   .box__internal{
     height: 100%;
     overflow: hidden;
+    border-top: 1px solid #939393;
+    border-bottom: 1px solid #939393;
   }
 
   .box__item:hover .box__title,
   .box__item:hover .box__description{
     transform: translateY(-100%);
+  }
+
+  .box__title h3{
+    font-size: 3.75em;
+    line-height: 4rem;
+  }
+
+  .box__title span{
+    font-size: 2.5em;
+    line-height: 4rem;
   }
 }
 
@@ -528,9 +651,10 @@ body{
 
 .map{
   width: 100%;
-  height: 57rem;
-  margin-top: 5rem;
+  height: 19.4rem;
+  margin-top: 3.75rem;
 }
+
 .map__wrapper{
   height: 100%;
   width: 100%;
@@ -543,14 +667,21 @@ body{
   object-position: center center;
 }
 
+@media only screen and (min-width: 769px){
+  .map{
+    width: 100%;
+    height: 36.6rem;
+    margin-top: 5rem;
+  }
+}
+
 /* Proyecto */
 
-.proyecto.numai .title__wrapper:before{
+.proyecto.numai .title__main:before{
   content: 'numai 1';
   position: absolute;
   bottom: -3px;
-  left: 21rem;
-  background-color: green;
+  left: 11rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
@@ -602,6 +733,20 @@ body{
 }
 
 @media only screen and (min-width: 769px){
+
+  .proyecto.numai .title__main:before{
+    display: none;
+  }
+
+  .proyecto.numai .title__wrapper:before{
+    content: 'numai 1';
+    position: absolute;
+    bottom: -1px;
+    left: 14rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
   .proyecto__item.even .proyecto__texto{
     order: 0;
   }
