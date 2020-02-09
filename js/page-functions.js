@@ -56,6 +56,40 @@ $(document).ready(function() {
 	// Hero
 	
 	$('.entrega').css('margin-right', $('.title .container').css('margin-right'));
+
+	// Galeria
+
+	var swiper = new Swiper('.swiper-gallery', {
+		slidesPerView: 1,
+		spaceBetween: 30,
+		speed: 2000,
+		loop: true,
+		navigation: {
+			nextEl: '.swiper-button-next',
+			prevEl: '.swiper-button-prev',
+		},
+		breakpoints: {
+			// when window width is >= 320px
+			992: {
+				slidesPerView: 'auto',
+			},
+		},
+		on: {
+
+			init: function () {
+			  $('.swiper-slide-next').addClass('more');
+			},
+	  
+			transitionStart: function () {
+				setTimeout(function(){
+					$('.swiper-slide-next').addClass('more');
+				  }, 200);
+				
+			},
+
+		}
+	});
+	
 	
 });
 

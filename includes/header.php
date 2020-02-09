@@ -31,6 +31,8 @@
 		<link rel="stylesheet" href="css/libraries/reset.css" />
 		<link rel="stylesheet" href="css/libraries/icons.css" />
 		<link rel="stylesheet" href="css/libraries/fonts.css" />
+		<link rel="stylesheet" href="css/libraries/swiper.min.css" />
+		<link rel="stylesheet" href="css/libraries/slick.css" />
 		<link rel="stylesheet" href="css/libraries/bootstrap-grid.min.css" />
 
 		<!-- Styles - main -->

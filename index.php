@@ -256,4 +256,43 @@
 		</div>
 	</section>
 
+	<section class="galeria separador">
+		<div class="title">
+			<div class="title__line"></div>
+			<div class="container">
+				<div class="title__wrapper">
+					<div class="row">
+
+						<div class="title__main col-lg-4">
+							<h2>galeria</h2>
+						</div>
+
+						<div class="title__description col-lg-8"><b>Recorre el edificio.</b><br>Conocé nuestras unidades y características</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="galeria__wrapper container">
+			<!-- Swiper -->
+			<div class="swiper-container swiper-gallery">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide"> <a href="img/ame/banner.png" data-lightbox="image-1"> <img src="img/ame/banner.png" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/proyectos/imagen2.jpg" data-lightbox="image-1"> <img src="img/proyectos/imagen2.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/ame/banner.png" data-lightbox="image-1"> <img src="img/ame/banner.png" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/ame/full.png" data-lightbox="image-1"> <img src="img/ame/full.png" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/proyectos/imagen2.jpg" data-lightbox="image-1"> <img src="img/proyectos/imagen2.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/hero/hero.png" data-lightbox="image-1"> <img src="img/hero/hero.png" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/proyectos/imagen2.jpg" data-lightbox="image-1"> <img src="img/proyectos/imagen2.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/ame/full.png" data-lightbox="image-1"> <img src="img/ame/full.png" alt=""></a></div>
+				</div>
+				<!-- Add Arrows -->
+				<div class="swiper-button-next"></div>
+    			<div class="swiper-button-prev"></div>
+			</div>
+
+		</div>
+	</section>
+
 <?php include 'includes/footer.php';?>
