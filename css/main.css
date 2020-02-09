@@ -474,7 +474,7 @@ body{
 
 .title__wrapper{
   padding-top: 2.5rem;
-  border-top: 6px solid #000;
+  border-top: 5px solid #000;
   position: relative;
 }
 
@@ -929,6 +929,47 @@ body{
   line-height: 2.2rem;
 }
 
+.ame__item:last-child .ame__list{
+  border-bottom: 1px solid #939393;
+}
+
+.ame__banner{
+  width: 100%;
+  margin-top: 2rem;
+}
+
+.ame__banner__foto{
+  height: 21rem;
+}
+
+.ame__banner__foto figure{
+  width: 100%;
+  height: 100%;
+}
+
+.ame__banner__foto img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.ame__banner__texto{
+  margin-top: 2.5rem;
+}
+
+.ame__banner__texto .box__title{
+  border-bottom: 1px solid #939393;
+}
+
+.ame__banner__texto p{
+  font-size: 1.4em;
+  line-height: 2.2rem;
+  letter-spacing: 0.025em;
+  color: #000;
+  padding-top: 2.5rem;
+}
+
 @media only screen and (min-width: 992px){
   .ame__full{
     width: 100%;
@@ -953,5 +994,33 @@ body{
   .ame__item .ame__list h4{
     font-size: 3.75em;
     line-height: 5.4rem;
+  }
+
+  .ame__banner__texto{
+    margin-top: 0;
+  }
+
+  .ame__banner{
+    margin-top: 5rem;
+  }
+
+  .ame__banner__foto{
+    height: 48.75rem;
+  }
+
+  .ame__banner__texto{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+  }
+
+  .ame__banner__texto .box__title{
+    border-top: 3px solid #000;
+    padding: 5rem 0;
+  }
+
+  .ame__banner__texto p{
+    padding: 5rem 0;
+    border-bottom: 1px solid #939393;
   }
 }

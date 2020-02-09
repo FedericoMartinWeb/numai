@@ -234,6 +234,25 @@
 					
 				</div>
 			</div>
+
+			<div class="ame__banner">
+				<div class="row">
+					<div class="ame__banner__foto col-lg-8">
+						<figure>
+							<img src="img/ame/banner.png" alt="">
+						</figure>
+					</div>
+					<div class="ame__banner__texto col-lg-4">
+						<div class="ame__banner__texto__wrapper">
+							<div class="box__title">
+								<span>unidades con</span>
+								<h3>terrazas exclusivas</h3>
+							</div>
+							<p>Cada una de ellas con parrilla incluida. Un amplio espacio para disfrutar al aire libre con quienes más queres.</p>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</section>
 
