@@ -295,4 +295,64 @@
 		</div>
 	</section>
 
+	<section class="contacto separador">
+		<div class="container">
+			<div class="row contacto__wrapper">
+				<div class="col-lg-6 contacto__img">
+					<figure>
+						<img src="img/contacto/logo.png" alt="">
+					</figure>
+
+					<a href="" class="contacto__bro"><b>DESCARGAR</b> brochure completo</a>
+				</div>
+				<div class="col-lg-6 contacto__form">
+					<div class="contacto__form__in">
+						<span>numai i te espera</span>
+						<span class="write">Escribinos</span>
+
+						<form action="">
+							<div class="contacto__form__row">
+								<input type="text" placeholder="Nombre">
+								<input type="email" placeholder="Email">
+							</div>
+							<textarea name="" id="" cols="30" rows="10" placeholder="Mensaje"></textarea>
+							<input type="submit" value="Enviar">
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="footer separador">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4 footer__item footer__item__constru">
+					<span class="footer__descri">proyecto</span>
+					<figure>
+						<img src="img/footer/constru.png" alt="">
+					</figure>
+				</div>
+				<div class="col-lg-4 footer__item footer__item__constru">
+					<span class="footer__descri">desarrolla</span>
+					<figure>
+						<img src="img/footer/constru.png" alt="">
+					</figure>
+				</div>
+				<div class="col-lg-4 footer__item footer__item__orwel">
+					<span class="footer__descri">comercializa</span>
+					<figure>
+						<img src="img/footer/orwel.png" alt="">
+					</figure>
+
+					<div class="orwel__descri">
+						<span class="orwel__descri__mail">alfredo@orwel.com.ar - <b>153.121.1234</b></span>
+						<span class="orwel__descri__mail">esteban@orwel.com.ar - <b>153.113.6668</b></span>
+						<a href="#" class="orwel__descri__site">www.orwel.com.ar</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
 <?php include 'includes/footer.php';?>
