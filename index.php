@@ -3,7 +3,7 @@
 
 <?php include 'includes/header.php';?>
 
-	<section class="hero">
+	<section class="hero" id="hero">
 
 		<div class="hero__image">
 			<img src="img/hero/hero.png" alt="">
@@ -27,24 +27,25 @@
 
 	</section>
 
-	<div class="title">
-		<div class="title__line"></div>
-		<div class="container">
-			<div class="title__wrapper">
-				<div class="row">
+	
 
-					<div class="title__main col-lg-4">
-						<h2>Ubicación</h2>
+	<section class="box separador" id="box">
+		<div class="title">
+			<div class="title__line"></div>
+			<div class="container">
+				<div class="title__wrapper">
+					<div class="row">
+
+						<div class="title__main col-lg-4">
+							<h2>Ubicación</h2>
+						</div>
+
+						<div class="title__description col-lg-8">NUMAI I te espera para que explores el ritmo de un barrio que te permitirá crear una experiencia única, cerca de todo lo que necesitas.</div>
+
 					</div>
-
-					<div class="title__description col-lg-8">NUMAI I te espera para que explores el ritmo de un barrio que te permitirá crear una experiencia única, cerca de todo lo que necesitas.</div>
-
 				</div>
 			</div>
 		</div>
-	</div>
-
-	<section class="box separador">
 		<div class="container">
 			<div class="row">
 				<div class="box__item col-lg-4">
@@ -95,7 +96,7 @@
 		</div>
 	</section>
 
-	<section class="proyecto separador numai">
+	<section class="proyecto separador numai" id="proyecto">
 		<div class="title">
 			<div class="title__line"></div>
 			<div class="container">
@@ -150,7 +151,7 @@
 		</div>
 	</section>
 
-	<section class="ame separador">
+	<section class="ame separador" id="amenities">
 		<div class="title">
 			<div class="title__line"></div>
 			<div class="container">
@@ -256,7 +257,7 @@
 		</div>
 	</section>
 
-	<section class="galeria separador">
+	<section class="galeria separador" id="galeria">
 		<div class="title">
 			<div class="title__line"></div>
 			<div class="container">
@@ -295,7 +296,7 @@
 		</div>
 	</section>
 
-	<section class="contacto separador">
+	<section class="contacto separador" id="contacto">
 		<div class="container">
 			<div class="row contacto__wrapper">
 				<div class="col-lg-6 contacto__img">

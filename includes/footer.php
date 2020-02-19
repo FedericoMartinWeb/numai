@@ -16,6 +16,7 @@
 		<script src="js/libraries/objectFitPolyfill.min.js"></script>
 		<script src="js/libraries/swiper.min.js"></script>
 		<script src="js/libraries/slick.min.js"></script>
+		<script src="js/libraries/aos.js"></script>
 		<script src="js/libraries/bootstrap.min.js"></script>
 
 		<!-- Javascript - page functions -->

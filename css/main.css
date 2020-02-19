@@ -19,6 +19,7 @@
   left: 0;
   width: 100%;
   z-index: 200;
+  transition: top .5s ease-out;
 }
 
 .main__header .container{
@@ -554,7 +555,11 @@
 /* Main Box */
 
 .box{
-  margin-top: 3.6rem;
+  margin-top: 0;
+}
+
+.box .title{
+  margin-bottom: 3.5rem;
 }
 
 .box__item{
@@ -604,7 +609,11 @@
 @media only screen and (min-width: 992px){
 
   .box{
-    margin-top: 11.2rem;
+    margin-top: 0;
+  }
+
+  .box .title{
+    margin-bottom: 11.2rem;
   }
 
   .box__title,

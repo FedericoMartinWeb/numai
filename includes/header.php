@@ -33,6 +33,7 @@
 		<link rel="stylesheet" href="css/libraries/fonts.css" />
 		<link rel="stylesheet" href="css/libraries/swiper.min.css" />
 		<link rel="stylesheet" href="css/libraries/slick.css" />
+		<link rel="stylesheet" href="css/libraries/aos.css" />
 		<link rel="stylesheet" href="css/libraries/bootstrap-grid.min.css" />
 
 		<!-- Styles - main -->
@@ -71,13 +72,13 @@
 
 									<nav>
 										<ul>
-											<li><a href="#">Ubicacion</a></li>
-											<li><a href="#">Proyecto</a></li>
-											<li><a href="#">Amenities</a></li>
+											<li><a href="#box">Ubicacion</a></li>
+											<li><a href="#proyecto">Proyecto</a></li>
+											<li><a href="#amenities">Amenities</a></li>
 											<li><a href="#">Unidades</a></li>
-											<li><a href="#">galeria</a></li>
+											<li><a href="#galeria">galeria</a></li>
 											<li><a href="#">Aquitectura</a></li>
-											<li><a href="#">contacto</a></li>
+											<li><a href="#contacto">contacto</a></li>
 										</ul>
 									</nav>
 								</div>
