@@ -1390,11 +1390,12 @@ form input[type="submit"]:hover{
   justify-content: space-between;
   align-items: flex-start;
   padding-left: 15px;
-  margin-top: 5rem;
+  margin-top: 6rem;
 }
 
 .map__img{
   width: 100%;
+  margin-top: 6rem;
 }
 
 .map__info__container{
@@ -1420,4 +1421,45 @@ form input[type="submit"]:hover{
 
 .changing{
   width: 100%;
+}
+
+.map__info__detail .piso,
+.map__info__detail .unidad{
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  width: 100%;
+}
+
+.map__info__detail .unidad{
+  min-height: 156px;
+}
+
+.map__info__detail .piso{
+  margin-left: 0;
+  font-size: 2.5em;
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+  font-weight: bold;
+}
+
+.map__info__detail .unidad h6{
+  text-transform: uppercase;
+  font-size: 2em;
+  letter-spacing: 0.025em;
+  color: #000;
+  margin-bottom: .6rem;
+}
+
+.map__info__detail .unidad li{
+  margin-bottom: 0.6rem;
+  font-size: 1.5em;
+}
+
+.map__info__detail .unidad li:last-child{
+  margin-bottom: 0;
 }
