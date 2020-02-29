@@ -150,7 +150,127 @@ $(document).ready(function() {
 				"<div class='unidad'>"+
 					"<h6>unidad a</h6>"+
 					"<ul>"+
-						"<li>Cub. <b>49.45 m<sup>2</sup></b></li>"+
+						"<li>Cub. <b>69.70 m<sup>2</sup></b></li>"+
+						"<li>Desc. <b>5.50 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>75.20 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad b</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>71.90 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>9.40 m<sup>2</sup></b></li>"+
+						"<li>Desc. <b>5.60 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>86.90 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div><div class='unidad'>"+
+					
+				"</div>"+
+			"</div>"+
+
+			"<div class='map__img'>"+
+				"<img src='img/planos/planos-1.svg' alt=''>"+
+			"</div>",
+		piso2: 
+			"<div class='map__info__detail'> "+
+				"<div class='piso'>piso 2</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad a</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>69.70 m<sup>2</sup></b></li>"+
+						"<li>Desc. <b>8.83 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>75.20 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad b</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>27.50 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>3.93 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>31.43 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div><div class='unidad'>"+
+					"<h6>unidad c</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>43.75 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>4.99 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>48.74 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+			"</div>"+
+
+			"<div class='map__img'>"+
+				"<img src='img/planos/planos-2.svg' alt=''>"+
+			"</div>",
+		piso3: 
+			"<div class='map__info__detail'> "+
+				"<div class='piso'>piso 3</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad a</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>69.70 m<sup>2</sup></b></li>"+
+						"<li>Desc. <b>8.83 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>75.20 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad b</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>27.50 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>3.93 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>31.43 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div><div class='unidad'>"+
+					"<h6>unidad c</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>43.75 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>4.99 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>48.74 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+			"</div>"+
+
+			"<div class='map__img'>"+
+				"<img src='img/planos/planos-3.svg' alt=''>"+
+			"</div>",
+		piso4: 
+			"<div class='map__info__detail'> "+
+				"<div class='piso'>piso 4</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad a</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>69.70 m<sup>2</sup></b></li>"+
+						"<li>Desc. <b>8.83 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>75.20 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad b</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>27.50 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>3.93 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>31.43 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div><div class='unidad'>"+
+					"<h6>unidad c</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>43.75 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>4.99 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>48.74 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+			"</div>"+
+
+			"<div class='map__img'>"+
+				"<img src='img/planos/planos-4.svg' alt=''>"+
+			"</div>",
+		piso5: 
+			"<div class='map__info__detail'> "+
+				"<div class='piso'>piso 5</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad a</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>49.35 m<sup>2</sup></b></li>"+
 						"<li>Semicub. <b>8.04 m<sup>2</sup></b></li>"+
 						"<li>Desc. <b>22.93 m<sup>2</sup></b></li>"+
 						"<li>Total. <b>80.32 m<sup>2</sup></b></li>"+
@@ -159,7 +279,7 @@ $(document).ready(function() {
 				"<div class='unidad'>"+
 					"<h6>unidad b</h6>"+
 					"<ul>"+
-						"<li>Cub. <b>49.25 m<sup>2</sup></b></li>"+
+						"<li>Cub. <b>40.25 m<sup>2</sup></b></li>"+
 						"<li>Semicub. <b>5.89 m<sup>2</sup></b></li>"+
 						"<li>Desc. <b>35.28 m<sup>2</sup></b></li>"+
 						"<li>Total. <b>81.42 m<sup>2</sup></b></li>"+
@@ -170,7 +290,111 @@ $(document).ready(function() {
 			"</div>"+
 
 			"<div class='map__img'>"+
-				"<img src='img/planos/planos-1.svg' alt=''>"+
+				"<img src='img/planos/planos-2.svg' alt=''>"+
+			"</div>",
+		piso6: 
+			"<div class='map__info__detail'> "+
+				"<div class='piso'>piso 6</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad a</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>49.35 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>5.46 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>54.81 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad b</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>40.25 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>5.60 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>45.85 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div><div class='unidad'>"+
+					
+				"</div>"+
+			"</div>"+
+
+			"<div class='map__img'>"+
+				"<img src='img/planos/planos-6.svg' alt=''>"+
+			"</div>",
+		piso7: 
+			"<div class='map__info__detail'> "+
+				"<div class='piso'>piso 7</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad a</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>49.35 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>5.46 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>54.81 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad b</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>40.25 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>5.60 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>45.15 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div><div class='unidad'>"+
+					
+				"</div>"+
+			"</div>"+
+
+			"<div class='map__img'>"+
+				"<img src='img/planos/planos-7.svg' alt=''>"+
+			"</div>",
+		piso8: 
+			"<div class='map__info__detail'> "+
+				"<div class='piso'>piso 8</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad a</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>51.48 m<sup>2</sup></b></li>"+
+						"<li>Desc. <b>29.80 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>81.28 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad b</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>40.25 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>5.60 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>45.85 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div><div class='unidad'>"+
+					
+				"</div>"+
+			"</div>"+
+
+			"<div class='map__img'>"+
+				"<img src='img/planos/planos-8.svg' alt=''>"+
+			"</div>",
+		piso9: 
+			"<div class='map__info__detail'> "+
+				"<div class='piso'>piso 9</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad a</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>51.48 m<sup>2</sup></b></li>"+
+						"<li>Desc. <b>29.80 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>81.28 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+				"<div class='unidad'>"+
+					"<h6>unidad b</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>40.25 m<sup>2</sup></b></li>"+
+						"<li>Semicub. <b>5.60 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>45.85 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div><div class='unidad'>"+
+					
+				"</div>"+
+			"</div>"+
+
+			"<div class='map__img'>"+
+				"<img src='img/planos/planos-9.svg' alt=''>"+
 			"</div>",
         
     };
@@ -180,14 +404,15 @@ $(document).ready(function() {
 		+'and enjoy as many delicious, crisp vegetables as you can eat.';
 		
     var image = $('.build__img img');
-
+	
+	
     image.mapster(
     {
         fillOpacity: 0.7,
         fillColor: "000000",
         singleSelect: true,
         mapKey: 'name',
-        listKey: 'name',
+		listKey: 'name',
         onClick: function (e) {
             var newToolTip = defaultDipTooltip;
             
@@ -204,6 +429,21 @@ $(document).ready(function() {
         },
         showToolTip: true,
         toolTipClose: ["tooltip-click", "area-click"],
+	});
+	
+	// Tabs
+
+	var linksParent = $('.tabs__links');
+    var items = $('.tabs__content__item');
+
+    linksParent.on('click', 'a', function(e){
+        e.preventDefault();
+        var t = $(this);
+        var i = t.index();
+        
+        t.addClass('active').siblings().removeClass('active');
+
+        items.eq(i).addClass('active').siblings().removeClass('active');
     });
 });
 
