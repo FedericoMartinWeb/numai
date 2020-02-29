@@ -117,7 +117,7 @@ $(document).ready(function() {
 
 		$('html, body').animate({
 			scrollTop: $($(this).attr('href')).offset().top - 80,
-		},900 ,'linear');
+		},600 ,'linear');
 
 		$('.site-header__menu-icon').removeClass('active');
 		$('.header__menu').removeClass('show');
