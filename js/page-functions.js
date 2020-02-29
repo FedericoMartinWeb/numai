@@ -124,9 +124,19 @@ $(document).ready(function() {
 
 	});
 
-	// Animations
+	// Mapping
 
-	
+	// $('.build__img img').css('right', $('.container').css('margin-right'));
+
+	function left(){
+		$('.map__info__container').css('padding-left', $('.container').css('margin-left'));
+	}
+
+	left();
+
+	$(window).on('resize', function(){
+		left();
+	});
 });
 
 // ---

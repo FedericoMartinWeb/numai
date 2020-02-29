@@ -257,6 +257,74 @@
 		</div>
 	</section>
 
+	<section class="mapping separador" id="mapping">
+		<div class="title">
+			<div class="title__line"></div>
+			<div class="container">
+				<div class="title__wrapper">
+					<div class="row">
+
+						<div class="title__main col-lg-4">
+							<h2>Unidades</h2>
+						</div>
+
+						<div class="title__description col-lg-8"><b>Recorre el edificio.</b><br>Conocé nuestras unidades y características</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="map__info">
+			
+					<div class="map__info__container">
+						<div class="changing">
+							<div class="map__info__detail">
+								<div class="piso">piso 5</div>
+								<div class="unidad">
+									<h6>unidad a</h6>
+									<ul>
+										<li>cub</li>
+										<li>semi cub</li>
+										<li>desc</li>
+										<li>total</li>
+									</ul>
+								</div>
+								<div class="unidad">
+									<h6>unidad b</h6>
+									<ul>
+										<li>cub</li>
+										<li>semi cub</li>
+										<li>desc</li>
+										<li>total</li>
+									</ul>
+								</div><div class="unidad">
+									<h6>unidad c</h6>
+									<ul>
+										<li>cub</li>
+										<li>semi cub</li>
+										<li>desc</li>
+										<li>total</li>
+									</ul>
+								</div>
+							</div>
+
+							<div class="map__img">
+								<img src="img/planos/planos-1.svg" alt="">
+							</div>
+						</div>
+					</div>
+				
+
+				<div class="build__img">
+					<figure>
+						<img src="img/planos/6.jpg" alt="">
+					</figure>
+				</div>
+			
+		</div>
+	</section>
+
 	<section class="galeria separador" id="galeria">
 		<div class="title">
 			<div class="title__line"></div>
