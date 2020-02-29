@@ -1412,6 +1412,10 @@ form input[type="submit"]:hover{
     margin-top: 6rem;
   }
 
+  .map__img img{
+    width: 100%;
+  }
+
   .map__info__container{
     display: flex;
     flex-direction: column;

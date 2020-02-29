@@ -169,7 +169,9 @@ $(document).ready(function() {
 			"</div>"+
 
 			"<div class='map__img'>"+
-				"<img src='img/planos/planos-1.svg' alt=''>"+
+				"<a href='img/planos/planos-1.jpg' data-lightbox='pland'>"+
+					"<img src='img/planos/planos-1.jpg' alt=''>"+
+				"</a>"+
 			"</div>",
 		piso2: 
 			"<div class='map__info__detail'> "+
@@ -200,7 +202,9 @@ $(document).ready(function() {
 			"</div>"+
 
 			"<div class='map__img'>"+
-				"<img src='img/planos/planos-2.svg' alt=''>"+
+			"<a href='img/planos/planos-2.jpg' data-lightbox='pland'>"+
+			"<img src='img/planos/planos-2.jpg' alt=''>"+
+		"</a>"+
 			"</div>",
 		piso3: 
 			"<div class='map__info__detail'> "+
@@ -231,7 +235,9 @@ $(document).ready(function() {
 			"</div>"+
 
 			"<div class='map__img'>"+
-				"<img src='img/planos/planos-3.svg' alt=''>"+
+			"<a href='img/planos/planos-3.jpg' data-lightbox='pland'>"+
+			"<img src='img/planos/planos-3.jpg' alt=''>"+
+		"</a>"+
 			"</div>",
 		piso4: 
 			"<div class='map__info__detail'> "+
@@ -262,7 +268,9 @@ $(document).ready(function() {
 			"</div>"+
 
 			"<div class='map__img'>"+
-				"<img src='img/planos/planos-4.svg' alt=''>"+
+			"<a href='img/planos/planos-4.jpg' data-lightbox='pland'>"+
+			"<img src='img/planos/planos-4.jpg' alt=''>"+
+		"</a>"+
 			"</div>",
 		piso5: 
 			"<div class='map__info__detail'> "+
@@ -290,7 +298,9 @@ $(document).ready(function() {
 			"</div>"+
 
 			"<div class='map__img'>"+
-				"<img src='img/planos/planos-2.svg' alt=''>"+
+			"<a href='img/planos/planos-5.jpg' data-lightbox='pland'>"+
+			"<img src='img/planos/planos-5.jpg' alt=''>"+
+		"</a>"+
 			"</div>",
 		piso6: 
 			"<div class='map__info__detail'> "+
@@ -316,7 +326,9 @@ $(document).ready(function() {
 			"</div>"+
 
 			"<div class='map__img'>"+
-				"<img src='img/planos/planos-6.svg' alt=''>"+
+			"<a href='img/planos/planos-6.jpg' data-lightbox='pland'>"+
+			"<img src='img/planos/planos-6.jpg' alt=''>"+
+		"</a>"+
 			"</div>",
 		piso7: 
 			"<div class='map__info__detail'> "+
@@ -342,7 +354,9 @@ $(document).ready(function() {
 			"</div>"+
 
 			"<div class='map__img'>"+
-				"<img src='img/planos/planos-7.svg' alt=''>"+
+			"<a href='img/planos/planos-7.jpg' data-lightbox='pland'>"+
+			"<img src='img/planos/planos-7.jpg' alt=''>"+
+		"</a>"+
 			"</div>",
 		piso8: 
 			"<div class='map__info__detail'> "+
@@ -368,7 +382,9 @@ $(document).ready(function() {
 			"</div>"+
 
 			"<div class='map__img'>"+
-				"<img src='img/planos/planos-8.svg' alt=''>"+
+			"<a href='img/planos/planos-8.jpg' data-lightbox='pland'>"+
+			"<img src='img/planos/planos-8.jpg' alt=''>"+
+		"</a>"+
 			"</div>",
 		piso9: 
 			"<div class='map__info__detail'> "+
@@ -394,7 +410,32 @@ $(document).ready(function() {
 			"</div>"+
 
 			"<div class='map__img'>"+
-				"<img src='img/planos/planos-9.svg' alt=''>"+
+			"<a href='img/planos/planos-9.jpg' data-lightbox='pland'>"+
+			"<img src='img/planos/planos-9.jpg' alt=''>"+
+		"</a>"+
+			"</div>",
+		piso10: 
+			"<div class='map__info__detail'> "+
+				"<div class='piso'>SUM</div>"+
+				"<div class='unidad'>"+
+					"<h6>SUM</h6>"+
+					"<ul>"+
+						"<li>Cub. <b>20.18 m<sup>2</sup></b></li>"+
+						"<li>Desc. <b>20.83 m<sup>2</sup></b></li>"+
+						"<li>Total. <b>41 m<sup>2</sup></b></li>"+
+					"</ul>"+
+				"</div>"+
+				"<div class='unidad'>"+
+					
+				"</div><div class='unidad'>"+
+					
+				"</div>"+
+			"</div>"+
+
+			"<div class='map__img'>"+
+			"<a href='img/planos/planos-SUM.jpg' data-lightbox='pland'>"+
+			"<img src='img/planos/planos-SUM.jpg' alt=''>"+
+		"</a>"+
 			"</div>",
         
     };

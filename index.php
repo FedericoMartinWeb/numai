@@ -314,8 +314,8 @@
 							</div>
 						</div>
 
-						<a href="img/planos/planos-1.svg" data-lightbox="planm">
-							<img src="img/planos/planos-1.svg" alt="">
+						<a href="img/planos/planos-1.jpg" data-lightbox="planm">
+							<img src="img/planos/planos-1.jpg" alt="">
 						</a>
 					</div>
 				</div>
@@ -348,8 +348,8 @@
 							</div>
 						</div>
 
-						<a href="img/planos/planos-2.svg" data-lightbox="planm">
-							<img src="img/planos/planos-2.svg" alt="">
+						<a href="img/planos/planos-2.jpg" data-lightbox="planm">
+							<img src="img/planos/planos-2.jpg" alt="">
 						</a>
 					</div>
 				</div>
@@ -382,8 +382,8 @@
 							</div>
 						</div>
 
-						<a href="img/planos/planos-3.svg" data-lightbox="planm">
-							<img src="img/planos/planos-3.svg" alt="">
+						<a href="img/planos/planos-3.jpg" data-lightbox="planm">
+							<img src="img/planos/planos-3.jpg" alt="">
 						</a>
 					</div>
 				</div>
@@ -416,8 +416,8 @@
 							</div>
 						</div>
 
-						<a href="img/planos/planos-4.svg" data-lightbox="planm">
-							<img src="img/planos/planos-4.svg" alt="">
+						<a href="img/planos/planos-4.jpg" data-lightbox="planm">
+							<img src="img/planos/planos-4.jpg" alt="">
 						</a>
 					</div>
 				</div>
@@ -447,8 +447,8 @@
 							</div>
 						</div>
 
-						<a href="img/planos/planos-5.svg" data-lightbox="planm">
-							<img src="img/planos/planos-5.svg" alt="">
+						<a href="img/planos/planos-5.jpg" data-lightbox="planm">
+							<img src="img/planos/planos-5.jpg" alt="">
 						</a>
 					</div>
 				</div>
@@ -476,8 +476,8 @@
 							</div>
 						</div>
 
-						<a href="img/planos/planos-6.svg" data-lightbox="planm">
-							<img src="img/planos/planos-6.svg" alt="">
+						<a href="img/planos/planos-6.jpg" data-lightbox="planm">
+							<img src="img/planos/planos-6.jpg" alt="">
 						</a>
 					</div>
 				</div>
@@ -506,8 +506,8 @@
 						</div>
 
 						<div class="map__img">
-							<a href="img/planos/planos-7.svg" data-lightbox="planm">
-								<img src="img/planos/planos-7.svg" alt="">
+							<a href="img/planos/planos-7.jpg" data-lightbox="planm">
+								<img src="img/planos/planos-7.jpg" alt="">
 							</a>
 						</div>
 					</div>
@@ -537,8 +537,8 @@
 						</div>
 
 						<div class="map__img">
-							<a href="img/planos/planos-8.svg" data-lightbox="planm">
-								<img src="img/planos/planos-8.svg" alt="">
+							<a href="img/planos/planos-8.jpg" data-lightbox="planm">
+								<img src="img/planos/planos-8.jpg" alt="">
 							</a>
 						</div>
 					</div>
@@ -568,8 +568,8 @@
 						</div>
 
 						<div class="map__img">
-							<a href="img/planos/planos-9.svg" data-lightbox="planm">
-								<img src="img/planos/planos-9.svg" alt="">
+							<a href="img/planos/planos-9.jpg" data-lightbox="planm">
+								<img src="img/planos/planos-9.jpg" alt="">
 							</a>
 						</div>
 					</div>
@@ -594,8 +594,8 @@
 						</div>
 
 						<div class="map__img">
-							<a href="img/planos/planos-SUM.svg" data-lightbox="planm">
-								<img src="img/planos/planos-SUM.svg" alt="">
+							<a href="img/planos/planos-SUM.jpg" data-lightbox="planm">
+								<img src="img/planos/planos-SUM.jpg" alt="">
 							</a>
 						</div>
 					</div>
@@ -637,7 +637,9 @@
 					</div>
 
 					<div class="map__img">
-						<img src="img/planos/planos-1.svg" alt="">
+					<a href="img/planos/planos-1.jpg" data-lightbox="planm">
+						<img src="img/planos/planos-1.jpg" alt="">
+					</a>
 					</div>
 				</div>
 
@@ -654,15 +656,16 @@
 					<img src="img/planos/6.jpg" usemap="#image-map">
 
 					<map name="image-map">
-						<area target="" alt="piso 1" title="piso 1" name="piso1" href="1" coords="569,1260,565,1224,565,1203,565,1176,565,1154,570,1150,579,1149,584,1142,586,1133,586,1126,585,1120,574,1117,562,1115,554,1113,547,1110,533,1113,523,1116,503,1121,492,1122,484,1124,292,1167,309,1166,322,1168,329,1168,334,1168,337,1177,336,1185,336,1283,515,1268" shape="poly">
-						<area target="" alt="piso 2" title="piso 2" name="piso2" href="2" coords="551,1109,587,1116,588,1064,583,1055,575,1052,567,1049,564,1040,565,1032,564,1017,567,985,573,978,583,973,585,964,553,953,546,951,533,956,288,1051,298,1047,304,1047,311,1050,316,1050,319,1056,319,1065,313,1082,309,1092,304,1100,288,1108,286,1169" shape="poly">
-						<area target="" alt="piso 3" title="piso 3" name="piso3" href="3" coords="547,951,588,963,590,892,570,888,569,877,589,865,588,808,546,790,288,931,298,927,320,936,320,972,286,988,287,1049" shape="poly">
-						<area target="" alt="piso 4" title="piso 4" name="piso4" href="4" coords="546,790,588,806,593,738,595,658,546,629,286,810,330,819,311,849,287,869,288,931" shape="poly">
-						<area target="" alt="piso 5" title="piso 5" name="piso5" href="5" coords="545,629,594,655,597,579,549,546,476,597,428,569,289,691,322,707,330,707,320,720,286,750,288,808" shape="poly">
-						<area target="" alt="piso 6" title="piso 6" name="piso6" href="6" coords="428,571,477,596,547,545,762,678,796,670,429,423,290,565,320,588,320,598,290,627,290,684" shape="poly">
-						<area target="" alt="piso 7" title="piso 7" name="piso7" href="7" coords="429,423,799,667,841,643,883,622,429,280,289,446,320,466,288,506,288,565" shape="poly">
-						<area target="" alt="piso 8" title="piso 8" name="piso8" href="8" coords="429,279,883,622,931,603,930,564,529,223,498,257,430,206,287,383,286,448" shape="poly">
-						<area target="" alt="piso 9" title="piso 9" name="piso9" href="9" coords="498,256,526,220,933,564,975,555,979,505,644,175,605,214,428,60,428,138,507,207,478,241" shape="poly">
+						<area target="" alt="piso1" title="piso1" name="piso1" href="1" coords="586,1114,337,1168,338,1278,546,1256,567,1254,566,1155,587,1150" shape="poly">
+						<area target="" alt="piso2" title="piso2" name="piso2" href="2" coords="587,1115,338,1167,307,1166,286,1167,287,1110,300,1082,319,1071,323,1059,332,1055,332,1054,586,962,588,971,566,981,567,1021,566,1046,574,1053,581,1053,587,1061" shape="poly">
+						<area target="" alt="piso3" title="piso3" name="piso3" href="3" coords="585,962,332,1055,320,1048,299,1047,285,1051,286,990,321,972,322,942,588,808,585,866,571,871,564,873,571,886,593,895,591,961" shape="poly">
+						<area target="" alt="piso4" title="piso4" name="piso4" href="4" coords="589,808,320,944,324,935,306,929,297,926,288,932,284,866,308,854,328,824,590,654,590,706,589,730,589,722" shape="poly">
+						<area target="" alt="piso5" title="piso5" name="piso5" href="5" coords="589,653,330,821,324,815,291,804,288,810,285,751,321,721,329,707,471,594,481,595,546,546,590,572" shape="poly">
+						<area target="" alt="piso6" title="piso6" name="piso6" href="6" coords="530,557,479,595,470,593,328,707,289,689,288,625,321,596,328,587,429,495,473,455,797,665,766,680,597,575,547,547" shape="poly">
+						<area target="" alt="piso7" title="piso7" name="piso7" href="7" coords="472,455,326,587,289,570,285,506,321,468,392,390,429,351,439,354,472,315,881,623,800,668" shape="poly">
+						<area target="" alt="piso8" title="piso8" name="piso8" href="8" coords="472,315,436,353,429,351,322,466,286,447,286,384,429,205,493,255,531,286,499,260,533,227,927,563,917,607,882,625" shape="poly">
+						<area target="" alt="piso9" title="piso9" name="piso9" href="9" coords="530,222,497,258,477,241,510,206,425,136,427,55,601,215,642,173,980,505,956,585" shape="poly">
+						<area target="" alt="piso10" title="piso10" name="piso10" href="10" coords="601,213,581,198,644,131,723,212,695,183,730,146,846,271,844,337,985,480,981,506,841,368,643,174,845,274,642,174" shape="poly">
 					</map>
 				</figure>
 			</div>
