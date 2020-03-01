@@ -17,7 +17,7 @@
 		</div>
 
 		<div class="wasap__mobile">
-			<a href="whatsapp://phone=+54 9 11 3121-1234"><i class="icon-whatsapp"></i></a>
+			<a href="https://api.whatsapp.com/send?phone=+5491131211234"><i class="icon-whatsapp"></i></a>
 		</div>
 
 		<div class="entrega">
