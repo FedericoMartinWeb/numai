@@ -781,7 +781,7 @@
 						<span>numai i te espera</span>
 						<span class="write">Escribinos</span>
 
-						<form action="http://numai.com.ar/dryrun/formulario.php">
+						<form method="post" action="formulario.php">
 							<div class="contacto__form__row">
 								<input type="text" name="name" placeholder="Nombre">
 								<input type="email" name="email" placeholder="Email">
@@ -829,7 +829,7 @@
 					<div class="orwel__descri">
 						<span class="orwel__descri__mail">alfredo@orwel.com.ar - <b>153.121.1234</b></span>
 						<span class="orwel__descri__mail">esteban@orwel.com.ar - <b>153.113.6668</b></span>
-						<a href="#" class="orwel__descri__site">www.orwel.com.ar</a>
+						<a href="www.orwel.com.ar" target="_blank" class="orwel__descri__site">www.orwel.com.ar</a>
 					</div>
 				</div>
 			</div>
