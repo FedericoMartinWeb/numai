@@ -104,22 +104,21 @@ $(document).ready(function() {
 			992: {
 				slidesPerView: 4,
 			},
-			on: {
-
-				init: function () {
-				  $('.swiper-slide-active').addClass('more');
-				},
-		  
-				transitionStart: function () {
-					setTimeout(function(){
-						$('.swiper-slide-active').addClass('more');
-					  }, 200);
-					
-				},
-	
-			}
 		},
-		
+		on: {
+
+			init: function () {
+			  $('.swiper-slide-active').addClass('more');
+			},
+	  
+			transitionStart: function () {
+				setTimeout(function(){
+					$('.swiper-slide-active').addClass('more');
+				  }, 200);
+				
+			},
+
+		}
 	});
 
 	// Header
