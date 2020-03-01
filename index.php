@@ -712,16 +712,51 @@
 
 		<div class="galeria__wrapper container">
 			<!-- Swiper -->
-			<div class="swiper-container swiper-gallery">
+			<div class="swiper-container swiper-gallery swiper-gallery1">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide"> <a href="img/ame/banner.png" data-lightbox="image-1"> <img src="img/ame/banner.png" alt=""></a></div>
-					<div class="swiper-slide"> <a href="img/proyectos/imagen2.jpg" data-lightbox="image-1"> <img src="img/proyectos/imagen2.jpg" alt=""></a></div>
-					<div class="swiper-slide"> <a href="img/ame/banner.png" data-lightbox="image-1"> <img src="img/ame/banner.png" alt=""></a></div>
-					<div class="swiper-slide"> <a href="img/ame/full.png" data-lightbox="image-1"> <img src="img/ame/full.png" alt=""></a></div>
-					<div class="swiper-slide"> <a href="img/proyectos/imagen2.jpg" data-lightbox="image-1"> <img src="img/proyectos/imagen2.jpg" alt=""></a></div>
-					<div class="swiper-slide"> <a href="img/hero/hero.png" data-lightbox="image-1"> <img src="img/hero/hero.png" alt=""></a></div>
-					<div class="swiper-slide"> <a href="img/proyectos/imagen2.jpg" data-lightbox="image-1"> <img src="img/proyectos/imagen2.jpg" alt=""></a></div>
-					<div class="swiper-slide"> <a href="img/ame/full.png" data-lightbox="image-1"> <img src="img/ame/full.png" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/galeria/1.jpg" data-lightbox="image-1"> <img src="img/galeria/1.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/galeria/2.jpg" data-lightbox="image-1"> <img src="img/galeria/2.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/galeria/3.jpg" data-lightbox="image-1"> <img src="img/galeria/3.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/galeria/4.jpg" data-lightbox="image-1"> <img src="img/galeria/4.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/galeria/5.jpg" data-lightbox="image-1"> <img src="img/galeria/5.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/galeria/6.jpg" data-lightbox="image-1"> <img src="img/galeria/6.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/galeria/7.jpg" data-lightbox="image-1"> <img src="img/galeria/7.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <a href="img/galeria/8.jpg" data-lightbox="image-1"> <img src="img/galeria/8.jpg" alt=""></a></div>
+				</div>
+				<!-- Add Arrows -->
+				<div class="swiper-button-next"></div>
+    			<div class="swiper-button-prev"></div>
+			</div>
+
+		</div>
+	</section>
+
+	<section class="otros separador estudio" id="otros">
+		<div class="title">
+			<div class="title__line"></div>
+			<div class="container">
+				<div class="title__wrapper">
+					<div class="row">
+
+						<div class="title__main col-lg-4">
+							<h2>Otros proyectos</h2>
+						</div>
+
+						<div class="title__description col-lg-8"></div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="galeria__wrapper container">
+			<!-- Swiper -->
+			<div class="swiper-container otros-gallery">
+				<div class="swiper-wrapper">
+				<div class="swiper-slide"> <span>bartolome mitre 1444</span> <a href="img/galeria2/bartolomemitre.jpg" data-lightbox="image-1"> <img src="img/galeria2/bartolomemitre.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <span>balcarce 373</span> <a href="img/galeria2/balcarce.jpg" data-lightbox="image-1"> <img src="img/galeria2/balcarce.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <span>chenaut 1707</span> <a href="img/galeria2/chenaut.jpg" data-lightbox="image-1"> <img src="img/galeria2/chenaut.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <span>rivadavia 1182</span> <a href="img/galeria2/rivadavia.jpg" data-lightbox="image-1"> <img src="img/galeria2/rivadavia.jpg" alt=""></a></div>
 				</div>
 				<!-- Add Arrows -->
 				<div class="swiper-button-next"></div>
@@ -766,7 +801,7 @@
 				<div class="col-lg-4 footer__item footer__item__constru">
 					<span class="footer__descri">proyecto</span>
 					<figure>
-						<img src="img/footer/constru.png" alt="">
+						<img src="img/footer/fuentes.png" alt="">
 					</figure>
 				</div>
 				<div class="col-lg-4 footer__item footer__item__constru">

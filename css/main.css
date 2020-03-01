@@ -807,6 +807,15 @@
     text-transform: uppercase;
     letter-spacing: 0.08em;
   }
+  
+  .otros.estudio .title__wrapper:before{
+    content: 'estudio fuentes';
+    position: absolute;
+    bottom: -1px;
+    left: 14rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
 
   .proyecto__item.even .proyecto__texto{
     order: 0;
@@ -1047,7 +1056,8 @@
   object-position: center center;
 }
 
-.swiper-gallery .swiper-wrapper .swiper-slide{
+.swiper-gallery .swiper-wrapper .swiper-slide,
+.otros-gallery .swiper-wrapper .swiper-slide{
   height: 30rem;
   width: 16rem;
 }
@@ -1056,6 +1066,30 @@
   width: 38rem !important;
   
   transition: all 1s ease;
+}
+
+.otros-gallery .swiper-slide-active.more{
+  width: 38rem !important;
+  
+  transition: all 1s ease;
+}
+
+.otros-gallery img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.otros-gallery .swiper-slide span{
+  bottom: 0;
+  position: absolute;
+  background: white;
+  width: 100%;
+  padding: 1.5rem;
+  text-transform: uppercase;
+  font-size: 1.4em;
+  color: #000;
 }
 
 .galeria.separador{
@@ -1189,6 +1223,11 @@ form textarea{
   width: 100%;
   resize: none;
   height: 8rem;
+  padding-top: 1rem;
+}
+
+form textarea:focus{
+  padding-top: 1rem;
 }
 
 form input[type="submit"]{
@@ -1555,6 +1594,10 @@ form input[type="submit"]:hover{
   display: none;
 }
 
+.tabs__content__item img{
+  width: 100%;
+}
+
 .tabs__content__item.active{
   display: block;
 }
@@ -1624,4 +1667,18 @@ form input[type="submit"]:hover{
 
 .tabs__map .footer__info p{
   text-align: left;
+}
+
+/* Otros */
+
+.mapping.separador,
+.otros.separador{
+  margin-top: 3rem;
+}
+
+@media only screen and (min-width: 992px){
+  .mapping.separador,
+  .otros.separador{
+    margin-top: 11.5rem;
+  }
 }

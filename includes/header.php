@@ -75,9 +75,9 @@
 											<li><a href="#box">Ubicacion</a></li>
 											<li><a href="#proyecto">Proyecto</a></li>
 											<li><a href="#amenities">Amenities</a></li>
-											<li><a href="#">Unidades</a></li>
+											<li><a href="#mapping">Unidades</a></li>
 											<li><a href="#galeria">galeria</a></li>
-											<li><a href="#">Aquitectura</a></li>
+											<li><a href="#otros">Aquitectura</a></li>
 											<li><a href="#contacto">contacto</a></li>
 										</ul>
 									</nav>

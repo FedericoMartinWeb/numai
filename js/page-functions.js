@@ -59,8 +59,8 @@ $(document).ready(function() {
 
 	// Galeria
 
-	var swiper = new Swiper('.swiper-gallery', {
-		slidesPerView: 1,
+	var swiper = new Swiper('.swiper-gallery1', {
+		slidesPerView: 1.5,
 		spaceBetween: 30,
 		speed: 2000,
 		loop: true,
@@ -71,7 +71,7 @@ $(document).ready(function() {
 		breakpoints: {
 			// when window width is >= 320px
 			992: {
-				slidesPerView: 'auto',
+				slidesPerView: 4,
 			},
 		},
 		on: {
@@ -88,6 +88,38 @@ $(document).ready(function() {
 			},
 
 		}
+	});
+
+	var swiper = new Swiper('.otros-gallery', {
+		slidesPerView: 1,
+		spaceBetween: 30,
+		speed: 2000,
+		loop: true,
+		navigation: {
+			nextEl: '.swiper-button-next',
+			prevEl: '.swiper-button-prev',
+		},
+		breakpoints: {
+			// when window width is >= 320px
+			992: {
+				slidesPerView: 4,
+			},
+			on: {
+
+				init: function () {
+				  $('.swiper-slide-active').addClass('more');
+				},
+		  
+				transitionStart: function () {
+					setTimeout(function(){
+						$('.swiper-slide-active').addClass('more');
+					  }, 200);
+					
+				},
+	
+			}
+		},
+		
 	});
 
 	// Header
@@ -117,7 +149,7 @@ $(document).ready(function() {
 
 		$('html, body').animate({
 			scrollTop: $($(this).attr('href')).offset().top - 80,
-		},600 ,'linear');
+		},800 ,'linear');
 
 		$('.site-header__menu-icon').removeClass('active');
 		$('.header__menu').removeClass('show');
