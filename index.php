@@ -11,7 +11,7 @@
 		
 		<div class="hero__wrapper">
 			<span class="present">te presentamos</span>
-			<h1>numai I &#8544;</h1>
+			<h1>numai I</h1>
 			<h3><span>numai</span> significa único</h3>
 			<span class="origi">único significa <b>original</b></span>
 		</div>
@@ -623,7 +623,7 @@
 				<div class="footer__info contacto__img">
 					<span>Poryecto adaptado a mensura</span>
 					<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum dolorum voluptates aliquam, atque id commodi tenetur nihil incidunt unde modi dolorem distinctio quidem voluptas accusantium cupiditate qui necessitatibus quod. Tenetur?</p>
-					<a href="" class="contacto__bro"><b>DESCARGAR</b> brochure completo</a>
+					<a href="brochure.pdf" download class="contacto__bro"><b>DESCARGAR</b> brochure completo</a>
 				</div>				
 			</div>
 		</div>
@@ -774,21 +774,31 @@
 						<img src="img/contacto/logo.png" alt="">
 					</figure>
 
-					<a href="" class="contacto__bro"><b>DESCARGAR</b> brochure completo</a>
+					<a href="brochure.pdf" download class="contacto__bro"><b>DESCARGAR</b> brochure completo</a>
 				</div>
 				<div class="col-lg-6 contacto__form">
 					<div class="contacto__form__in">
 						<span>numai i te espera</span>
 						<span class="write">Escribinos</span>
 
-						<form action="">
+						<form action="http://numai.com.ar/dryrun/formulario.php">
 							<div class="contacto__form__row">
-								<input type="text" placeholder="Nombre">
-								<input type="email" placeholder="Email">
+								<input type="text" name="name" placeholder="Nombre">
+								<input type="email" name="email" placeholder="Email">
 							</div>
-							<textarea name="" id="" cols="30" rows="10" placeholder="Mensaje"></textarea>
+							<textarea name="mensaje" id="" cols="30" rows="10" placeholder="Mensaje"></textarea>
 							<input type="submit" value="Enviar">
 						</form>
+						<span id="success_message" class="mensajes"></span>
+						<script>
+							if(window.location.href == "http://numai.com.ar/dryrun/#"){
+								document.getElementById("success_message").style.display = "block";
+								document.getElementById("success_message").innerHTML = "Mensaje enviado con exito!";
+								setTimeout(() => {
+									document.getElementById("success_message").style.display = "none";
+								}, 3000);
+							}
+						</script>
 					</div>
 				</div>
 			</div>
