@@ -5,7 +5,7 @@
 	<head>
 
 		<!-- titles -->
-		<title>THE MAGIC BEGINS</title>
+		<title>Numai</title>
 
 		<!-- metatags -->
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -14,7 +14,8 @@
 		<!-- /// -->
 
 		<!-- favicon - png -->
-		
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
 
 		<!-- /// -->
 
