@@ -155,6 +155,13 @@ $(document).ready(function() {
 
 	});
 
+	$('.header__logo').on('click', function(e){
+		e.preventDefault();
+		$('html, body').animate({
+			scrollTop: 0,
+		},800 ,'linear');
+	});
+
 	// Mapping
 
 	function left(){

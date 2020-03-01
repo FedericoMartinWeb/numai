@@ -67,7 +67,7 @@
 								<div class="header__menu__wrapper">
 									
 									<div class="header__wasap">
-										<a href="#"><i class="icon-whatsapp"></i><span>+54 9 11 3121-1234</span></a>
+										<a href="tel:+54 9 11 3121-1234"><i class="icon-whatsapp"></i><span>+54 9 11 3121-1234</span></a>
 									</div>
 
 									<nav>

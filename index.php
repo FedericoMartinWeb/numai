@@ -11,13 +11,13 @@
 		
 		<div class="hero__wrapper">
 			<span class="present">te presentamos</span>
-			<h1>numai I</h1>
+			<h1>numai I &#8544;</h1>
 			<h3><span>numai</span> significa único</h3>
 			<span class="origi">único significa <b>original</b></span>
 		</div>
 
 		<div class="wasap__mobile">
-			<a href="#"><i class="icon-whatsapp"></i></a>
+			<a href="whatsapp://phone=+54 9 11 3121-1234"><i class="icon-whatsapp"></i></a>
 		</div>
 
 		<div class="entrega">
