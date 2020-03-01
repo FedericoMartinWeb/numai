@@ -91,9 +91,7 @@
 	</section>
 
 	<section class="map" id="map">
-		<div class="map__wrapper">
-			<img src="img/map/map.png" alt="">
-		</div>
+		
 	</section>
 
 	<script>

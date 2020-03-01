@@ -416,7 +416,7 @@ $(document).ready(function() {
 			"</div>",
 		piso10: 
 			"<div class='map__info__detail'> "+
-				"<div class='piso'>SUM</div>"+
+				"<div class='piso'>piso 10</div>"+
 				"<div class='unidad'>"+
 					"<h6>SUM</h6>"+
 					"<ul>"+
