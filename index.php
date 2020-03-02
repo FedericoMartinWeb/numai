@@ -11,7 +11,7 @@
 		
 		<div class="hero__wrapper">
 			<span class="present">te presentamos</span>
-			<h1>numai I</h1>
+			<h1><img src="img/hero/numai.png" alt=""></h1>
 			<h3><span>numai</span> significa único</h3>
 			<span class="origi">único significa <b>original</b></span>
 		</div>
@@ -200,7 +200,7 @@
 					
 					<div class="ame__foto">
 						<figure>
-							<img src="img/proyectos/imagen2.jpg" alt="">
+							<img src="img/ame/4-a.jpg" alt="">
 						</figure>
 					</div>
 					<div class="ame__list">
@@ -778,7 +778,7 @@
 				</div>
 				<div class="col-lg-6 contacto__form">
 					<div class="contacto__form__in">
-						<span>numai i te espera</span>
+						<span>numai te espera</span>
 						<span class="write">Escribinos</span>
 
 						<form method="post" action="formulario.php">

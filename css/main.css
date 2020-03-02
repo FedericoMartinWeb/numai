@@ -323,7 +323,6 @@ body{
   font-weight: bold;
   font-size: 1.4em;
   letter-spacing: 0.2em;
-  line-height: 1.4rem;
   margin-bottom: 2rem;
   display: inline-block;
 }
@@ -337,32 +336,6 @@ body{
   position: relative;
 }
 
-/* .hero__wrapper h1:before{
-  content: '';
-  background-image: url(../img/hero/i.png);
-  display: block;
-  background-repeat: no-repeat;
-  width: 30px;
-  background-size: 30px 60px;
-  height: 60px;
-  position: absolute;
-  top: 50%;
-  transform: translateY(calc(-50% - 5px));
-  right: 20%;
-} */
-
-@media only screen and (min-width: 992px){
-  /* .hero__wrapper h1:before{
-    background-size: 58px 120px;
-    width: 58px;
-    height: 120px;
-    position: absolute;
-    top: 50%;
-    transform: translateY(calc(-50% - 5px));
-    right: 20%;
-  } */
-}
-
 .hero__wrapper h1::after{
   content: '';
   position: absolute;
@@ -372,6 +345,18 @@ body{
   width: 50%;
   height: 3px;
   background-color: #fff;
+}
+
+.hero__wrapper img{
+  width: 100%;
+  max-width: 300px;
+}
+
+@media only screen and (min-width: 992px){
+  .hero__wrapper img{
+    width: 100%;
+    max-width: 600px;
+  }
 }
 
 .hero__wrapper h3{
@@ -722,7 +707,7 @@ body{
 /* Proyecto */
 
 .proyecto.numai .title__main:before{
-  content: 'numai 1';
+  content: 'numai I';
   position: absolute;
   bottom: -3px;
   left: 11rem;
