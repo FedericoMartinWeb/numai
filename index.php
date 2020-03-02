@@ -811,7 +811,7 @@
 				<div class="col-lg-4 footer__item footer__item__constru">
 					<span class="footer__descri">proyecto</span>
 					<figure>
-						<img src="img/footer/fuentes.png" alt="">
+						<img src="img/footer/fuentes.jpg" alt="">
 					</figure>
 				</div>
 				<div class="col-lg-4 footer__item footer__item__constru">
