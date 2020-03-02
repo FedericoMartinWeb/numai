@@ -6,7 +6,11 @@
 	<section class="hero" id="hero">
 
 		<div class="hero__image">
-			<img src="img/hero/hero.png" alt="">
+
+			<video loop="" autoplay="" muted="">
+				<source src="img/videos/hero.mp4" type="video/mp4">
+				<source src="img/videos/hero.webm" type="video/webm">
+			</video>
 		</div>
 		
 		<div class="hero__wrapper">
