@@ -1,5 +1,6 @@
 
 <?php
+ob_start();
 if(isset($_POST["name"]) && isset($_POST["email"]) && isset($_POST["mensaje"]) ){
 $to = "no-reply@c1710711.ferozo.com";
 $subject = "Mensaje desde numai.com.ar";
@@ -12,6 +13,5 @@ $header .= "Content-Type: text/plain";
 if(mail($to, $subject, $contenido ,$header)){
     header('Location: http://numai.com.ar/dryrun/#');
 }
-
 }
 ?>
