@@ -138,7 +138,7 @@
 			<div class="proyecto__item row odd">
 				<div class="proyecto__foto col-lg-6">
 					<figure>
-						<img src="img/proyectos/imagen1.png" alt="">
+						<img src="img/proyectos/imagen1.jpg" alt="">
 					</figure>
 				</div>
 				<div class="proyecto__texto col-lg-4">
@@ -219,7 +219,7 @@
 					
 					<div class="ame__foto">
 						<figure>
-							<img src="img/proyectos/imagen2.jpg" alt="">
+							<img src="img/ame/4-b.jpg" alt="">
 						</figure>
 					</div>
 					<div class="ame__list">
@@ -239,7 +239,7 @@
 					
 					<div class="ame__foto">
 						<figure>
-							<img src="img/proyectos/imagen2.jpg" alt="">
+							<img src="img/ame/4-c.jpg" alt="">
 						</figure>
 					</div>
 					<div class="ame__list">
@@ -259,7 +259,7 @@
 				<div class="row">
 					<div class="ame__banner__foto col-lg-8">
 						<figure>
-							<img src="img/ame/banner.png" alt="">
+							<img src="img/ame/5.jpg" alt="">
 						</figure>
 					</div>
 					<div class="ame__banner__texto col-lg-4">
