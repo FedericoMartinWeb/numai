@@ -1812,6 +1812,7 @@ form input[type="submit"]:hover{
   .footer__info p{
     width: 100%;
     text-align: left;
+    line-height: 1.2rem;
   }
 
 }

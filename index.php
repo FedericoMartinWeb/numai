@@ -626,7 +626,7 @@
 
 				<div class="footer__info contacto__img">
 					<span>Poryecto adaptado a mensura</span>
-					<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum dolorum voluptates aliquam, atque id commodi tenetur nihil incidunt unde modi dolorem distinctio quidem voluptas accusantium cupiditate qui necessitatibus quod. Tenetur?</p>
+					<p>Las medidas y superficies de la presente incluyen los muros perimetrales y son meramente indicativas, este documento es informativo y no tiene carácter contractual. Las medidas denitivas serán las que surjan del plano de subdivisión y/o de los contratos que se suscriban. Las imágenes son de carácter ilustrativo. Los valores, condiciones de venta y plazos de entrega podrán ser cambiados sin previo aviso.</p>
 					<a href="brochure.pdf" download class="contacto__bro"><b>DESCARGAR</b> brochure completo</a>
 				</div>				
 			</div>
@@ -669,8 +669,8 @@
 				<div class="footer__info contacto__img">
 					<span>1.75</span>
 					<span>Poryecto adaptado a mensura</span>
-					<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum dolorum voluptates aliquam, atque id commodi tenetur nihil incidunt unde modi dolorem distinctio quidem voluptas accusantium cupiditate qui necessitatibus quod. Tenetur?</p>
-					<a href="" class="contacto__bro"><b>DESCARGAR</b> brochure completo</a>
+					<p>Las medidas y supercies de la presente incluyen los muros perimetrales y son meramente indicativas, este documento es informativo y no tiene carácter contractual. Las medidas denitivas serán las que surjan del plano de subdivisión y/o de los contratos que se suscriban. Las imágenes son de carácter ilustrativo. Los valores, condiciones de venta y plazos de entrega podrán ser cambiados sin previo aviso.</p>
+					<a href="brochure.pdf" download class="contacto__bro"><b>DESCARGAR</b> brochure completo</a>
 				</div>
 			</div>
 		
