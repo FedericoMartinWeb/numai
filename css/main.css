@@ -929,6 +929,15 @@ video{
   margin-top: 2rem;
 }
 
+.otros.estudio .title__wrapper:before{
+  content: 'estudio fuentes';
+  position: absolute;
+  bottom: 17px;
+  left: 9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
 @media only screen and (min-width: 992px){
 
   .proyecto.numai .title__main:before{
@@ -1978,3 +1987,12 @@ form input[type="submit"]:hover{
   z-index: 1000;
   display: none;
 }
+
+/* Fixes Cambios */
+
+.wasap__mobile{
+  position: fixed;
+  z-index: 100;
+}
+
+.otros.estudio .title__wrapper

@@ -194,7 +194,7 @@
 
 		<section class="ame__full">
 			<div class="ame__full__wrapper">
-				<img src="img/ame/full.png" alt="">
+				<img src="img/ame/full.jpg" alt="">
 			</div>
 		</section>
 
@@ -210,7 +210,7 @@
 					<div class="ame__list">
 						<h4>Comodidad</h4>
 						<ul>
-							<li>- 9 pisos distribuidos en Studios, 2, 3 y 4 ambientes aptos profesional.</li>
+							<li>- 9 pisos distribuidos en Studios, 2 y 3 ambientes aptos profesional.</li>
 							<li>- Cocheras fijas opcionales.</li>
 							<li>- SUM con parrilla.</li>
 							<li>- Solárium.</li>
@@ -249,7 +249,7 @@
 					<div class="ame__list">
 						<h4>vanguardia</h4>
 						<ul>
-							<li>- Calefacción por radiador, con caldera individual (en unid. De 2, 3 y 4 amb.)</li>
+							<li>- Calefacción por radiador, con caldera individual (en unid. De 2 y 3 amb.)</li>
 							<li>- Multi Split Frio Calor para los Studios.</li>
 							<li>- Cocina con muebles bajomesada y alacenas de diseño.</li>
 							<li>- Cerraduras biométricas con huella digital en la puerta de las unidades.</li>
@@ -291,7 +291,7 @@
 							<h2>Unidades</h2>
 						</div>
 
-						<div class="title__description col-lg-8"><b>Recorre el edificio.</b><br>Conocé nuestras unidades y características</div>
+						<div class="title__description col-lg-8"><b>Recorre el edificio.</b><br>Hacé click en cada piso de la imagen y conocé nuestras unidades y características</div>
 
 					</div>
 				</div>
@@ -758,9 +758,11 @@
 			<div class="swiper-container otros-gallery">
 				<div class="swiper-wrapper">
 				<div class="swiper-slide"> <span>bartolome mitre 1444</span> <a href="img/galeria2/bartolomemitre.jpg" data-lightbox="image-1"> <img src="img/galeria2/bartolomemitre.jpg" alt=""></a></div>
-					<div class="swiper-slide"> <span>balcarce 373</span> <a href="img/galeria2/balcarce.jpg" data-lightbox="image-1"> <img src="img/galeria2/balcarce.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <span>Coronel-pagola 3932</span> <a href="img/galeria2/coronel.jpg" data-lightbox="image-1"> <img src="img/galeria2/coronel.jpg" alt=""></a></div>
 					<div class="swiper-slide"> <span>chenaut 1707</span> <a href="img/galeria2/chenaut.jpg" data-lightbox="image-1"> <img src="img/galeria2/chenaut.jpg" alt=""></a></div>
-					<div class="swiper-slide"> <span>rivadavia 1182</span> <a href="img/galeria2/rivadavia.jpg" data-lightbox="image-1"> <img src="img/galeria2/rivadavia.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <span>Antezana 570</span> <a href="img/galeria2/antezana.jpg" data-lightbox="image-1"> <img src="img/galeria2/antezana.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <span>Holmberg 3470</span> <a href="img/galeria2/holmberg.jpg" data-lightbox="image-1"> <img src="img/galeria2/holmberg.jpg" alt=""></a></div>
+					<div class="swiper-slide"> <span>El Salvador 4523</span> <a href="img/galeria2/salvador.jpg" data-lightbox="image-1"> <img src="img/galeria2/salvador.jpg" alt=""></a></div>
 				</div>
 				<!-- Add Arrows -->
 				<div class="swiper-button-next"></div>
@@ -831,8 +833,8 @@
 					</figure>
 
 					<div class="orwel__descri">
-						<span class="orwel__descri__mail">alfredo@orwel.com.ar - <b>153.121.1234</b></span>
-						<span class="orwel__descri__mail">esteban@orwel.com.ar - <b>153.113.6668</b></span>
+						<span class="orwel__descri__mail">alfredo@orwel.com.ar - <b>113.121.1234</b></span>
+						<span class="orwel__descri__mail">esteban@orwel.com.ar - <b>113.113.6668</b></span>
 						<a href="www.orwel.com.ar" target="_blank" class="orwel__descri__site">www.orwel.com.ar</a>
 					</div>
 				</div>
