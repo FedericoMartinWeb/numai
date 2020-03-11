@@ -327,10 +327,10 @@
 							<div class="unidad">
 								<h6>unidad b</h6>
 								<ul>
-									<li>Cub. <b>71.20 m<sup>2</sup></b></li>
-									<li>Semicub. <b>9.40 m<sup>2</sup></b></li>
+									<li>Cub. <b>71.00 m<sup>2</sup></b></li>
+									<li>Semicub. <b>9.30 m<sup>2</sup></b></li>
 									<li>Desc. <b>5.60 m<sup>2</sup></b></li>
-									<li>Total. <b>86.90 m<sup>2</sup></b></li>
+									<li>Total. <b>85.90 m<sup>2</sup></b></li>
 								</ul>
 							</div><div class="unidad">
 								
@@ -349,24 +349,24 @@
 							<div class="unidad">
 								<h6>unidad a</h6>
 								<ul>
-									<li>Cub. <b>69.70 m<sup>2</sup></b></li>
-									<li>Desc. <b>8.83 m<sup>2</sup></b></li>
-									<li>Total. <b>75.20 m<sup>2</sup></b></li>
+									<li>Cub. <b>70.00 m<sup>2</sup></b></li>
+									<li>Desc. <b>9.60 m<sup>2</sup></b></li>
+									<li>Total. <b>79.60 m<sup>2</sup></b></li>
 								</ul>
 							</div>
 							<div class="unidad">
 								<h6>unidad b</h6>
 								<ul>
-									<li>Cub. <b>27.50 m<sup>2</sup></b></li>
-									<li>Semicub. <b>3.93 m<sup>2</sup></b></li>
-									<li>Total. <b>31.43 m<sup>2</sup></b></li>
+									<li>Cub. <b>27.80 m<sup>2</sup></b></li>
+									<li>Semicub. <b>4.00 m<sup>2</sup></b></li>
+									<li>Total. <b>31.80 m<sup>2</sup></b></li>
 								</ul>
 							</div><div class="unidad">
 							<h6>unidad c</h6>
 							<ul>
-								<li>Cub. <b>43.75 m<sup>2</sup></b></li>
-								<li>Semicub. <b>4.99 m<sup>2</sup></b></li>
-								<li>Total. <b>48.74 m<sup>2</sup></b></li>
+								<li>Cub. <b>43.00 m<sup>2</sup></b></li>
+								<li>Semicub. <b>5.32 m<sup>2</sup></b></li>
+								<li>Total. <b>48.30 m<sup>2</sup></b></li>
 							</ul>
 							</div>
 						</div>
@@ -383,24 +383,24 @@
 							<div class="unidad">
 								<h6>unidad a</h6>
 								<ul>
-									<li>Cub. <b>69.70 m<sup>2</sup></b></li>
-									<li>Desc. <b>8.83 m<sup>2</sup></b></li>
-									<li>Total. <b>75.20 m<sup>2</sup></b></li>
+									<li>Cub. <b>70.00 m<sup>2</sup></b></li>
+									<li>Desc. <b>9.60 m<sup>2</sup></b></li>
+									<li>Total. <b>79.60 m<sup>2</sup></b></li>
 								</ul>
 							</div>
 							<div class="unidad">
 								<h6>unidad b</h6>
 								<ul>
-									<li>Cub. <b>27.50 m<sup>2</sup></b></li>
-									<li>Semicub. <b>3.93 m<sup>2</sup></b></li>
-									<li>Total. <b>31.43 m<sup>2</sup></b></li>
+									<li>Cub. <b>27.80 m<sup>2</sup></b></li>
+									<li>Semicub. <b>4.00 m<sup>2</sup></b></li>
+									<li>Total. <b>31.80 m<sup>2</sup></b></li>
 								</ul>
 							</div><div class="unidad">
 							<h6>unidad c</h6>
 							<ul>
-								<li>Cub. <b>43.75 m<sup>2</sup></b></li>
-								<li>Semicub. <b>4.99 m<sup>2</sup></b></li>
-								<li>Total. <b>48.74 m<sup>2</sup></b></li>
+								<li>Cub. <b>43.00 m<sup>2</sup></b></li>
+								<li>Semicub. <b>5.32 m<sup>2</sup></b></li>
+								<li>Total. <b>48.30 m<sup>2</sup></b></li>
 							</ul>
 							</div>
 						</div>
@@ -417,24 +417,24 @@
 							<div class="unidad">
 								<h6>unidad a</h6>
 								<ul>
-									<li>Cub. <b>69.70 m<sup>2</sup></b></li>
-									<li>Desc. <b>8.83 m<sup>2</sup></b></li>
-									<li>Total. <b>75.20 m<sup>2</sup></b></li>
+									<li>Cub. <b>70.00 m<sup>2</sup></b></li>
+									<li>Desc. <b>9.60 m<sup>2</sup></b></li>
+									<li>Total. <b>79.60 m<sup>2</sup></b></li>
 								</ul>
 							</div>
 							<div class="unidad">
 								<h6>unidad b</h6>
 								<ul>
-									<li>Cub. <b>27.50 m<sup>2</sup></b></li>
-									<li>Semicub. <b>3.93 m<sup>2</sup></b></li>
-									<li>Total. <b>31.43 m<sup>2</sup></b></li>
+									<li>Cub. <b>27.80 m<sup>2</sup></b></li>
+									<li>Semicub. <b>4.00 m<sup>2</sup></b></li>
+									<li>Total. <b>31.80 m<sup>2</sup></b></li>
 								</ul>
 							</div><div class="unidad">
 							<h6>unidad c</h6>
 							<ul>
-								<li>Cub. <b>43.75 m<sup>2</sup></b></li>
-								<li>Semicub. <b>4.99 m<sup>2</sup></b></li>
-								<li>Total. <b>48.74 m<sup>2</sup></b></li>
+								<li>Cub. <b>43.00 m<sup>2</sup></b></li>
+								<li>Semicub. <b>5.32 m<sup>2</sup></b></li>
+								<li>Total. <b>48.30 m<sup>2</sup></b></li>
 							</ul>
 							</div>
 						</div>
@@ -451,19 +451,19 @@
 							<div class="unidad">
 								<h6>unidad a</h6>
 								<ul>
-									<li>Cub. <b>49.35 m<sup>2</sup></b></li>
-									<li>Semicub. <b>8.04 m<sup>2</sup></b></li>
-									<li>Desc. <b>22.93 m<sup>2</sup></b></li>
-									<li>Total. <b>80.32 m<sup>2</sup></b></li>
+									<li>Cub. <b>49.00 m<sup>2</sup></b></li>
+									<li>Semicub. <b>6.35 m<sup>2</sup></b></li>
+									<li>Desc. <b>22.95 m<sup>2</sup></b></li>
+									<li>Total. <b>78.30 m<sup>2</sup></b></li>
 								</ul>
 							</div>
 							<div class="unidad">
 								<h6>unidad b</h6>
 								<ul>
-									<li>Cub. <b>40.25 m<sup>2</sup></b></li>
-									<li>Semicub. <b>5.89 m<sup>2</sup></b></li>
+									<li>Cub. <b>38.00 m<sup>2</sup></b></li>
+									<li>Semicub. <b>5.70 m<sup>2</sup></b></li>
 									<li>Desc. <b>35.28 m<sup>2</sup></b></li>
-									<li>Total. <b>81.42 m<sup>2</sup></b></li>
+									<li>Total. <b>78.98 m<sup>2</sup></b></li>
 								</ul>
 							</div><div class="unidad">
 								
@@ -482,17 +482,17 @@
 							<div class="unidad">
 								<h6>unidad a</h6>
 								<ul>
-									<li>Cub. <b>49.35 m<sup>2</sup></b></li>
-									<li>Semicub. <b>5.46 m<sup>2</sup></b></li>
-									<li>Total. <b>54.81 m<sup>2</sup></b></li>
+									<li>Cub. <b>49.00 m<sup>2</sup></b></li>
+									<li>Semicub. <b>6.35 m<sup>2</sup></b></li>
+									<li>Total. <b>55.35 m<sup>2</sup></b></li>
 								</ul>
 							</div>
 							<div class="unidad">
 								<h6>unidad b</h6>
 								<ul>
-									<li>Cub. <b>40.25 m<sup>2</sup></b></li>
-									<li>Semicub. <b>5.60 m<sup>2</sup></b></li>
-									<li>Total. <b>45.85 m<sup>2</sup></b></li>
+									<li>Cub. <b>38.00 m<sup>2</sup></b></li>
+									<li>Semicub. <b>5.70 m<sup>2</sup></b></li>
+									<li>Total. <b>43.70 m<sup>2</sup></b></li>
 								</ul>
 							</div><div class="unidad">
 								
@@ -511,17 +511,17 @@
 							<div class="unidad">
 								<h6>unidad a</h6>
 								<ul>
-									<li>Cub. <b>49.35 m<sup>2</sup></b></li>
-									<li>Semicub. <b>5.46 m<sup>2</sup></b></li>
-									<li>Total. <b>54.81 m<sup>2</sup></b></li>
+									<li>Cub. <b>49.00 m<sup>2</sup></b></li>
+									<li>Semicub. <b>6.35 m<sup>2</sup></b></li>
+									<li>Total. <b>55.35 m<sup>2</sup></b></li>
 								</ul>
 							</div>
 							<div class="unidad">
 								<h6>unidad b</h6>
 								<ul>
-									<li>Cub. <b>40.25 m<sup>2</sup></b></li>
-									<li>Semicub. <b>5.60 m<sup>2</sup></b></li>
-									<li>Total. <b>45.15 m<sup>2</sup></b></li>
+									<li>Cub. <b>38.00 m<sup>2</sup></b></li>
+									<li>Semicub. <b>5.70 m<sup>2</sup></b></li>
+									<li>Total. <b>43.70 m<sup>2</sup></b></li>
 								</ul>
 							</div><div class="unidad">
 								
@@ -540,19 +540,19 @@
 					<div class="changing">
 						<div class="map__info__detail">
 							<div class="unidad">
-								<h6>unidad a</h6>
+								<h6>unidad a (duplex)</h6>
 								<ul>
-									<li>Cub. <b>51.48 m<sup>2</sup></b></li>
+									<li>Cub. <b>57.20 m<sup>2</sup></b></li>
 									<li>Desc. <b>29.80 m<sup>2</sup></b></li>
-									<li>Total. <b>81.28 m<sup>2</sup></b></li>
+									<li>Total. <b>87.00 m<sup>2</sup></b></li>
 								</ul>
 							</div>
 							<div class="unidad">
 								<h6>unidad b</h6>
 								<ul>
-									<li>Cub. <b>40.25 m<sup>2</sup></b></li>
-									<li>Semicub. <b>5.60 m<sup>2</sup></b></li>
-									<li>Total. <b>45.85 m<sup>2</sup></b></li>
+									<li>Cub. <b>38.00 m<sup>2</sup></b></li>
+									<li>Semicub. <b>5.70 m<sup>2</sup></b></li>
+									<li>Total. <b>43.70 m<sup>2</sup></b></li>
 								</ul>
 							</div><div class="unidad">
 								
@@ -571,19 +571,19 @@
 					<div class="changing">
 						<div class="map__info__detail">
 							<div class="unidad">
-								<h6>unidad a</h6>
+								<h6>unidad a (duplex)</h6>
 								<ul>
-									<li>Cub. <b>51.48 m<sup>2</sup></b></li>
+									<li>Cub. <b>57.20 m<sup>2</sup></b></li>
 									<li>Desc. <b>29.80 m<sup>2</sup></b></li>
-									<li>Total. <b>81.28 m<sup>2</sup></b></li>
+									<li>Total. <b>87.00 m<sup>2</sup></b></li>
 								</ul>
 							</div>
 							<div class="unidad">
 								<h6>unidad b</h6>
 								<ul>
-									<li>Cub. <b>40.25 m<sup>2</sup></b></li>
-									<li>Semicub. <b>5.60 m<sup>2</sup></b></li>
-									<li>Total. <b>45.85 m<sup>2</sup></b></li>
+									<li>Cub. <b>38.00 m<sup>2</sup></b></li>
+									<li>Semicub. <b>5.70 m<sup>2</sup></b></li>
+									<li>Total. <b>43.70 m<sup>2</sup></b></li>
 								</ul>
 							</div><div class="unidad">
 								
@@ -605,7 +605,7 @@
 								<h6>SUM</h6>
 								<ul>
 									<li>Cub. <b>20.18 m<sup>2</sup></b></li>
-									<li>Desc. <b>20.83 m<sup>2</sup></b></li>
+									<li>Desc. <b>20.82 m<sup>2</sup></b></li>
 									<li>Total. <b>41 m<sup>2</sup></b></li>
 								</ul>
 							</div>
