@@ -676,7 +676,7 @@
 		
 			<div class="build__img">
 				<figure>
-					<img src="img/planos/6.jpg" usemap="#image-map">
+					<img src="img/planos/6nueva.jpg" usemap="#image-map">
 
 					<map name="image-map">
 						<area target="" alt="piso1" title="piso1" name="piso1" href="1" coords="586,1114,337,1168,338,1278,546,1256,567,1254,566,1155,587,1150" shape="poly">
@@ -684,12 +684,20 @@
 						<area target="" alt="piso3" title="piso3" name="piso3" href="3" coords="585,962,332,1055,320,1048,299,1047,285,1051,286,990,321,972,322,942,588,808,585,866,571,871,564,873,571,886,593,895,591,961" shape="poly">
 						<area target="" alt="piso4" title="piso4" name="piso4" href="4" coords="589,808,320,944,324,935,306,929,297,926,288,932,284,866,308,854,328,824,590,654,590,706,589,730,589,722" shape="poly">
 						<area target="" alt="piso5" title="piso5" name="piso5" href="5" coords="589,653,330,821,324,815,291,804,288,810,285,751,321,721,329,707,471,594,481,595,546,546,590,572" shape="poly">
-						<area target="" alt="piso6" title="piso6" name="piso6" href="6" coords="530,557,479,595,470,593,328,707,289,689,288,625,321,596,328,587,429,495,473,455,797,665,766,680,597,575,547,547" shape="poly">
-						<area target="" alt="piso7" title="piso7" name="piso7" href="7" coords="472,455,326,587,289,570,285,506,321,468,392,390,429,351,439,354,472,315,881,623,800,668" shape="poly">
-						<area target="" alt="piso8" title="piso8" name="piso8" href="8" coords="472,315,436,353,429,351,322,466,286,447,286,384,429,205,493,255,531,286,499,260,533,227,927,563,917,607,882,625" shape="poly">
-						<area target="" alt="piso9" title="piso9" name="piso9" href="9" coords="530,222,497,258,477,241,510,206,425,136,427,55,601,215,642,173,980,505,956,585" shape="poly">
-						<area target="" alt="piso10" title="piso10" name="piso10" href="10" coords="601,213,581,198,644,131,723,212,695,183,730,146,846,271,844,337,985,480,981,506,841,368,643,174,845,274,642,174" shape="poly">
+						<area target="" alt="piso6" title="piso6" name="piso6" href="6" coords="473,593,330,707,289,690,289,627,328,587,474,455,676,586,646,606,546,545,529,557,478,598" shape="poly">
+						<area target="" alt="piso7" title="piso7" name="piso7" href="7" coords="474,455,327,587,288,568,288,504,321,463,427,350,436,355,474,314,761,531,677,586" shape="poly">
+						<area target="" alt="piso8" title="piso8" name="piso8" href="8" coords="473,314,436,354,427,350,321,464,288,446,286,383,429,203,501,261,533,225,835,483,762,532" shape="poly">
+						<area target="" alt="piso9" title="piso9" name="piso9" href="9" coords="529,222,498,258,476,240,507,205,427,136,425,62,425,50,602,214,643,172,909,433,834,484" shape="poly">
+						<area target="" alt="piso10" title="piso10" name="piso10" href="10" coords="603,213,582,195,642,133,697,186,697,178,730,147,845,272,845,335,927,422,909,433,643,171" shape="poly">
 					</map>
+
+					<!-- <map name="image-map">
+						<area target="" alt="" title="piso6" name="piso6" href="6" coords="473,593,330,707,289,690,289,627,328,587,474,455,676,586,646,606,546,545,529,557,478,598" shape="poly">
+						<area target="" alt="" title="piso7" name="piso7" href="7" coords="474,455,327,587,288,568,288,504,321,466,429,351,436,355,474,314,761,531,677,586" shape="poly">
+						<area target="" alt="" title="piso8" name="piso8" href="8" coords="473,314,436,354,427,350,321,464,288,446,286,383,429,203,501,261,536,225,835,483,762,531" shape="poly">
+						<area target="" alt="" title="piso9" name="piso9" href="9" coords="529,222,498,256,476,240,507,205,427,136,425,62,425,50,602,214,643,172,909,433,835,481" shape="poly">
+						<area target="" alt="" title="piso10" name="piso10" href="10" coords="603,213,582,195,642,133,697,186,697,178,730,147,845,272,845,335,927,422,909,433,643,171" shape="poly">
+					</map> -->
 				</figure>
 			</div>
 			
