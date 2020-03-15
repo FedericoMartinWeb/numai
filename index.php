@@ -850,4 +850,15 @@
 		</div>
 	</section>
 
+	<section class="credits">
+		<div class="container">
+			<div class="row">
+				<div class="credits__wrapper">
+					<span>DISEÑO <a href="http://www.neladiaz.com.ar" target="_blank">NELA DIAZ</a> | DESARROLLO <a href="https://www.federicomartin.io" target="_blank">FEDERICO MARTIN</a></span>
+				</div>
+			</div>
+		</div>
+		
+	</section>
+
 <?php include 'includes/footer.php';?>

@@ -2054,3 +2054,43 @@ form input[type="submit"]:hover{
     visibility: hidden;
   }
 }
+
+/* Credits */
+
+.credits__wrapper{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  padding: 1.5rem 0;
+  padding-right: 0.5rem;
+}
+
+.credits__wrapper span{
+  font-size: 1.4em;
+  font-family: 'DIN Next LT Pro Condensed';
+  letter-spacing: .14em;
+  font-weight: 600;
+  color: #000;
+}
+
+.credits__wrapper span a{
+  text-decoration: underline;
+  color: #000;
+  transition: all .4s ease-out;
+}
+
+.credits__wrapper span a:hover{
+  text-decoration: none;
+}
+
+@media only screen and (min-width: 992px){
+  .credits__wrapper{
+    padding-right: 0;
+  }
+
+  .credits__wrapper span{
+    font-size: 1.6em;
+    
+  }
+}
