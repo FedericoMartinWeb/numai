@@ -29,6 +29,7 @@
 		<meta property="og:type" content="article" />
 		<meta property="og:url" content="http://www.numai.com.ar/" />
 		<meta property="og:description" content="Numai es un proyecto inmobiliario ubicado en el barrio de Almagro/Villa Crespo. El edificio cuenta con 9 pisos distribuidos en Studios, 2 y 3 ambientes aptos profesional. Todos ellos con la amplitud y luminosidad necesaria para que disfrutes una experiencia única. La calidad del edificio y su ubicación privilegiada, garantizan un alto retorno de la inversión. Consulta por nuestros planes de financiación. Porque sos único, viví en Numai." />
+		<meta property="og:image" content="https://numai.com.ar/dryrun/img/ame/full.jpg" />
 
 		<!-- /// -->
 

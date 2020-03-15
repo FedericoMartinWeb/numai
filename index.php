@@ -805,7 +805,7 @@
 						</form>
 						<span id="success_message" class="mensajes"></span>
 						<script>
-							if(window.location.href == "http://numai.com.ar/dryrun/#"){
+							if(window.location.href == "https://www.numai.com.ar/#"){
 								document.getElementById("success_message").style.display = "block";
 								document.getElementById("success_message").innerHTML = "Mensaje enviado con exito!";
 								setTimeout(() => {
@@ -824,9 +824,13 @@
 			<div class="row">
 				<div class="col-lg-4 footer__item footer__item__constru">
 					<span class="footer__descri">proyecto</span>
-					<figure>
-						<img src="img/footer/fuentes.jpg" alt="">
-					</figure>
+					
+						<figure>
+						<a href="https://www.oscarfuentesarquitectos.com" target="_blank">
+							<img src="img/footer/fuentes.jpg" alt="">
+							</a>
+						</figure>
+					
 				</div>
 				<div class="col-lg-4 footer__item footer__item__constru">
 					<span class="footer__descri">desarrolla</span>
