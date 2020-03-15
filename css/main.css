@@ -1995,4 +1995,62 @@ form input[type="submit"]:hover{
   z-index: 100;
 }
 
-.otros.estudio .title__wrapper
+/* Image attention */
+
+.build__img figure{
+  position: relative;
+}
+
+.build__img figure:after{
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0,0,0,.9);
+  /* animation: identifier .3s forwards; */
+  opacity: 0;
+  visibility: hidden;
+}
+
+.animateActive .build__img figure:before{
+  content: '';
+  position: absolute;
+  background-image: url(../img/planos/hover.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 1;
+  width: 100px;
+  height: 130px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: identifier 2.5s forwards;
+}
+
+.animateActive .build__img figure:after{
+  animation: identifier 2.5s forwards;
+}
+
+@keyframes identifier {
+  25%{
+    opacity: 1;
+    visibility: visible;
+  }
+
+  50%{
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  75%{
+    opacity: 1;
+    visibility: visible;
+  }
+
+  100%{
+    opacity: 0;
+    visibility: hidden;
+  }
+}

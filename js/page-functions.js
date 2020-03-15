@@ -523,7 +523,30 @@ $(document).ready(function() {
         t.addClass('active').siblings().removeClass('active');
 
         items.eq(i).addClass('active').siblings().removeClass('active');
-    });
+	});
+	
+	// Animations
+
+	// Add Animations
+	var $content = $body.find('.mapping');
+
+	$(window).on('scroll', function(){
+		if(WW > 992){
+			var scrollValue = $window.scrollTop();
+		
+			$content.each(function() {
+
+				var el = $(this);
+				var elOffset = el.offset().top - ($window.height() - 500);
+
+				if ( elOffset < scrollValue) {
+					el.addClass('animateActive');
+				}
+
+			});
+		
+		}
+	});
 });
 
 // ---
