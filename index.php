@@ -805,7 +805,7 @@
 						</form>
 						<span id="success_message" class="mensajes"></span>
 						<script>
-							if(window.location.href == "https://www.numai.com.ar/#"){
+							if(window.location.href == "https://numai.com.ar/#"){
 								document.getElementById("success_message").style.display = "block";
 								document.getElementById("success_message").innerHTML = "Mensaje enviado con exito!";
 								setTimeout(() => {
