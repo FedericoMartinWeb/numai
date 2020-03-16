@@ -194,7 +194,7 @@
 
 		<section class="ame__full">
 			<div class="ame__full__wrapper">
-				<img src="img/ame/full.jpg" alt="">
+				<img src="img/ame/5.jpg" alt="">
 			</div>
 		</section>
 
@@ -263,7 +263,7 @@
 				<div class="row">
 					<div class="ame__banner__foto col-lg-8">
 						<figure>
-							<img src="img/ame/5.jpg" alt="">
+							<img src="img/ame/full.jpg" alt="">
 						</figure>
 					</div>
 					<div class="ame__banner__texto col-lg-4">
